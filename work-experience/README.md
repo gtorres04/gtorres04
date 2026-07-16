@@ -36,4 +36,23 @@ Mi foco es crear software claro, mantenible y resiliente que genere impacto real
 
 For the full work experience and education details, see the [complete resume](../resume-work-experience.md).
 
+---
+
+## Experience Index / Índice de Experiencias
+
+| Company | Role | Period |
+|---|---|---|
+| [Globant](globant/README.md) | Senior Java Software Engineer | 2023 - Present |
+| [Paradigma Digital](paradigma-digital/README.md) | Senior Software Development Engineer | 2021 - 2024 |
+| [Grupo Ditech](grupo-ditech/README.md) | Java Architect | 2019 - 2021 |
+| [Makers Solutions S.A.S](makers-solutions/README.md) | Java Technical Lead | 2018 - 2019 |
+| [Personalsoft S.A.S](personalsoft/README.md) | Software Engineering Analyst | 2017 - 2018 |
+| [integ.ro](integro/README.md) | Senior Java Developer | 2017 |
+| [everis](everis/README.md) | Senior Solutions Analyst | 2016 - 2017 |
+| [PRAGMA S.A.](pragma/README.md) | Software Developer | 2016 |
+| [ingemedic & Metrologia](ingemedic-metrologia/README.md) | Java Developer Analyst | 2013 - 2015 |
+| [Fundación Universitaria Tecnológico Comfenalco](comfenalco/README.md) | Faculty / Junior Developer | 2008 - 2015 |
+
+---
+
 ← Back to [main profile](../README.md)

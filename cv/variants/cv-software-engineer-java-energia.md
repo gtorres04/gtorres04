@@ -11,7 +11,7 @@ Cartagena de Indias, Colombia · Full Remote · Freelance
 
 ## Perfil Profesional
 
-Ingeniero de Software con **más de 10 años de experiencia** diseñando y construyendo plataformas backend críticas en banca, pagos electrónicos, fondos de inversión, telco y grandes corporaciones (Inditex, El Corte Inglés, Bankinter, Evo Banco, Bancolombia, Protección, MasOrange). Especializado en **Java 8–21, Spring Boot 3, arquitectura hexagonal y Domain-Driven Design (DDD)**, con dominio comprobado de sistemas **event-driven** basados en **Kafka**, programación reactiva con **Vert.x** en producción, idempotencia y consistencia transaccional a gran escala sobre **PostgreSQL, MySQL y Redis**. Experiencia real modelando dominios complejos —más allá de APIs CRUD— con agregados, value objects, invariantes, máquinas de estado y audit log, así como optimización de consultas e índices sobre modelos relacionales de alto volumen. Disponible en modalidad freelance, full remote, para incorporación inmediata en proyectos de 3 meses.
+Ingeniero de Software con **más de 10 años de experiencia** diseñando y construyendo plataformas backend críticas basadas en **microservicios Java event-driven** para banca, pagos electrónicos, fondos de inversión, telco y grandes corporaciones (Inditex, El Corte Inglés, Bankinter, Evo Banco, Bancolombia, Protección, MasOrange). Especializado en **Java 8–21, Spring Boot 3, arquitectura hexagonal y Domain-Driven Design (DDD)**, con dominio comprobado de **Kafka** (consumers y eventos de dominio), programación reactiva con **Vert.x** en producción, **idempotencia**, **procesamiento asíncrono** y consistencia transaccional a gran escala sobre **PostgreSQL, MySQL y Redis**. Experiencia real modelando dominios complejos —más allá de APIs CRUD— con agregados, value objects, invariantes, máquinas de estado y audit log, así como optimización de consultas e índices sobre modelos relacionales de alto volumen. Disponible en modalidad freelance, full remote, para incorporación inmediata en proyectos de 3 meses.
 
 **Encaje con la oferta:** cubro la mayor parte del stack del **Proyecto 1** (Java 17+, Kafka, programación reactiva con Vert.x, Redis, MySQL/PostgreSQL, DDD/hexagonal) con experiencia de producción reciente, con brechas puntuales en Data Warehouse/fact-dim y Reactor/WebFlux (detalladas más abajo). Para el **Proyecto 2** aporto dominio real en modelado de agregados complejos, máquinas de estado, audit log e integridad transaccional sobre dominios financieros regulados, con una brecha en integraciones SMS/WhatsApp y LOPD/RGPD explícito.
 
@@ -87,14 +87,15 @@ Antes de enviar este CV, ten en cuenta estas brechas frente a la oferta y cómo 
 ## Experiencia Profesional
 
 ### Senior Backend Engineer (Java/Go) — MasOrange (Freelance) · Ene 2026 – Mar 2026
-- Entregué microservicios reactivos políglotas en **Vert.x (Java) y Go** para la plataforma de cobros telco *mas-collections*, sosteniendo procesamiento de baja latencia bajo carga concurrente.
+- Entregué **microservicios Java event-driven** reactivos y políglotas en **Vert.x (Java) y Go** para la plataforma de cobros telco *mas-collections*, sosteniendo procesamiento de baja latencia bajo carga concurrente.
 - Garanticé fiabilidad y tolerancia a fallos en transacciones distribuidas orquestando procesos de negocio de larga duración con **Cadence**, eliminando estados inconsistentes ante caídas parciales.
-- Integré persistencia transaccional en **PostgreSQL** y cache en **Redis** con mensajería asíncrona **Kafka**, reduciendo el acoplamiento entre servicios del monorepo.
+- Integré persistencia transaccional en **PostgreSQL** y cache en **Redis** con mensajería asíncrona y **consumers Kafka**, reduciendo el acoplamiento entre servicios del monorepo.
 - Aceleré el ciclo CI/CD construyendo pipelines de **Jenkins** y **GitHub Actions** sobre un monorepo compilado con **Bazel**, con cobertura y calidad verificadas en **SonarQube**.
 - Automaticé despliegues en **Kubernetes** con **Argo CD** (GitOps) sobre infraestructura **GCP** definida como código con **Terraform**, empaquetando servicios con Docker y Helm.
 
 ### Senior Java Software Engineer — Globant · Ago 2023 – Presente
 - Diseñé y lidero una plataforma de cálculo de KPIs en tiempo casi real para Inditex con **Java 21 y Spring Boot 3**, manteniendo tiempos de respuesta estables incluso ante picos de carga.
+- Implementé flujos **event-driven** con **consumers Kafka** de eventos de dominio en pub/sub, desacoplando el procesamiento asíncrono entre servicios.
 - Modelé una jerarquía global de producto sobre **Cosmos DB/Gremlin, PostgreSQL y Redis**, garantizando consistencia e integridad entre tres motores de datos heterogéneos.
 - Optimicé el ciclo de vida del dato en cálculos de alto volumen (mensuales, semestrales y anuales), sosteniendo el rendimiento sin degradar la disponibilidad.
 - Aseguré la calidad con **JUnit, Karate e ICaRUS** (pruebas unitarias, integración, E2E, carga y caos) y observabilidad end-to-end con **Grafana, Prometheus y Zipkin**.

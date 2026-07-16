@@ -42,6 +42,7 @@ For the full work experience and education details, browse the directories below
 
 | Company | Role | Period |
 |---|---|---|
+| [MasOrange (Freelance)](masorange/README.md) | Senior Backend Engineer (Java/Go) | Jan 2026 - Mar 2026 |
 | [Globant](globant/README.md) | Senior Java Software Engineer | 2023 - Present |
 | [Paradigma Digital](paradigma-digital/README.md) | Senior Software Development Engineer | 2021 - 2024 |
 | [Grupo Ditech](grupo-ditech/README.md) | Java Architect | 2019 - 2021 |

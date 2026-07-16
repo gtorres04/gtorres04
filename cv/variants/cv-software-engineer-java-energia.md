@@ -5,21 +5,29 @@
 Cartagena de Indias, Colombia · Full Remote · Freelance
 📧 gerlin.torres@gmail.com · 🔗 [linkedin.com/in/gerlin-orlando-torres-saavedra](https://www.linkedin.com/in/gerlin-orlando-torres-saavedra)
 
-> CV adaptado a la oferta (Ref. 1025): **Software Engineer Java (sector energía)** — Proyecto 1 (Plataforma de Analítica para contact center, Senior, full time) y Proyecto 2 (Migración de CRM, Mid, part time 4h/día). Proyectos de 3 meses · Freelance · Full remote.
+> CV adaptado a la oferta (Ref. 1025): **Software Engineer Java (sector energía)** — Proyecto 1 (Plataforma de Analítica para contact center, Senior, full time) y Proyecto 2 (Migración de CRM, Mid, part time 4h/día). Proyectos de 3 meses · Freelance · Full remote · 30-35 €/hora.
 
 ---
 
 ## Perfil Profesional
 
-Ingeniero de Software con **más de 10 años de experiencia** diseñando y construyendo plataformas backend críticas en banca, pagos electrónicos, fondos de inversión, telco y grandes corporaciones (Inditex, El Corte Inglés, Bankinter, Evo Banco, Bancolombia, Protección, MasOrange). Especializado en **Java 8–21, Spring Boot 3, arquitectura hexagonal y Domain-Driven Design (DDD)**, con dominio comprobado de sistemas **event-driven** basados en **Kafka**, programación reactiva con **Vert.x** en producción, idempotencia y consistencia transaccional a gran escala sobre **PostgreSQL, MySQL y Redis**. Experiencia real modelando dominios complejos —más allá de APIs CRUD— con agregados, value objects, invariantes, máquinas de estado y audit log, así como jobs batch de agregación, rollup y optimización de consultas sobre modelos relacionales de alto volumen. Disponible en modalidad freelance, full remote, para incorporación inmediata en proyectos de 3 meses.
+Ingeniero de Software con **más de 10 años de experiencia** diseñando y construyendo plataformas backend críticas en banca, pagos electrónicos, fondos de inversión, telco y grandes corporaciones (Inditex, El Corte Inglés, Bankinter, Evo Banco, Bancolombia, Protección, MasOrange). Especializado en **Java 8–21, Spring Boot 3, arquitectura hexagonal y Domain-Driven Design (DDD)**, con dominio comprobado de sistemas **event-driven** basados en **Kafka**, programación reactiva con **Vert.x** en producción, idempotencia y consistencia transaccional a gran escala sobre **PostgreSQL, MySQL y Redis**. Experiencia real modelando dominios complejos —más allá de APIs CRUD— con agregados, value objects, invariantes, máquinas de estado y audit log, así como optimización de consultas e índices sobre modelos relacionales de alto volumen. Disponible en modalidad freelance, full remote, para incorporación inmediata en proyectos de 3 meses.
 
-**Encaje con la oferta:** cubro el stack completo del **Proyecto 1** (Java 17+, Kafka, Vert.x, Redis, MySQL/PostgreSQL, DDD/hexagonal, jobs batch) con experiencia de producción reciente, y aporto al **Proyecto 2** dominio real en modelado de agregados complejos, máquinas de estado, audit log e integridad transaccional sobre dominios financieros regulados.
+**Encaje con la oferta:** cubro la mayor parte del stack del **Proyecto 1** (Java 17+, Kafka, programación reactiva con Vert.x, Redis, MySQL/PostgreSQL, DDD/hexagonal) con experiencia de producción reciente, con brechas puntuales en Data Warehouse/fact-dim y Reactor/WebFlux (detalladas más abajo). Para el **Proyecto 2** aporto dominio real en modelado de agregados complejos, máquinas de estado, audit log e integridad transaccional sobre dominios financieros regulados, con una brecha en integraciones SMS/WhatsApp y LOPD/RGPD explícito.
 
 ---
 
 ## Competencias Clave (ATS)
 
-`Java 8/11/17/21` `Spring Boot 3` `Vert.x` `Kafka` `Event-Driven Architecture` `DDD` `Arquitectura Hexagonal` `Clean Architecture` `Microservicios` `Programación Reactiva (Vert.x, RxJava2)` `Idempotencia` `Procesamiento Asíncrono` `PostgreSQL` `MySQL` `MongoDB` `Cosmos DB / Gremlin` `Redis` `Optimización de Consultas e Índices` `Multitenancy` `Máquinas de Estado` `Audit Log` `Integridad Transaccional` `ISO 8583` `REST` `SOAP` `OpenAPI` `Kubernetes` `OpenShift` `Docker` `Azure` `Google Cloud Platform (GCP)` `Terraform` `GitHub Actions` `Jenkins` `CI/CD` `JUnit` `Karate` `TDD` `SonarQube` `Grafana` `Prometheus` `Zipkin` `Scrum`
+### Con experiencia comprobada
+
+`Java 8/11/17/21` `Spring Boot 3` `Vert.x` `Kafka` `Event-Driven Architecture` `DDD` `Arquitectura Hexagonal` `Clean Architecture` `Microservicios` `Programación Reactiva` `Idempotencia` `Procesamiento Asíncrono` `PostgreSQL` `MySQL` `MongoDB` `Cosmos DB / Gremlin` `Redis` `Optimización de Consultas e Índices` `Multitenancy` `Máquinas de Estado` `Audit Log` `Integridad Transaccional` `ISO 8583` `REST` `SOAP` `OpenAPI` `Kubernetes` `OpenShift` `Docker` `Azure` `Google Cloud Platform (GCP)` `Terraform` `GitHub Actions` `Jenkins` `CI/CD` `JUnit` `Karate` `TDD` `SonarQube` `Grafana` `Prometheus` `Zipkin` `Scrum`
+
+### Requeridas por la oferta, sin experiencia directa documentada
+
+`RxJava2` `Project Reactor` `Spring WebFlux` `Amazon RDS` `Data Warehouse` `Modelado Fact/Dim` `Jobs Batch de Roll-up` `LOPD/RGPD` `Integraciones SMS/WhatsApp`
+
+> Incluidas aquí para no perder matching con el ATS del cliente, pero ver la sección **Brechas Detectadas y Recomendaciones** antes de enviar el CV: no se afirma dominio de estas tecnologías en el cuerpo del documento.
 
 ---
 
@@ -42,6 +50,23 @@ Ingeniero de Software con **más de 10 años de experiencia** diseñando y const
 | Gestión de ventas, activaciones, recuperaciones y comisiones | 2 | Dominio de valorización y consolidación diaria de operaciones financieras con reglas de negocio estrictas (SPIRIT/Protección) |
 | Integraciones SMS, email, WhatsApp, webhooks, callbacks | 2 | Integraciones SOAP/REST heterogéneas con entidades externas gubernamentales (everis); normalización de APIs de terceros (Evo Banco). Sin experiencia documentada específica en SMS/WhatsApp |
 | Consentimiento LOPD/RGPD | 2 | Sin proyectos con LOPD/RGPD documentados explícitamente; sí experiencia en cumplimiento de políticas de seguridad, auditoría y trazabilidad regulatoria sobre información sensible de clientes (Bancolombia, everis) |
+
+---
+
+## Brechas Detectadas y Recomendaciones
+
+Antes de enviar este CV, ten en cuenta estas brechas frente a la oferta y cómo abordarlas honestamente en la carta de presentación o entrevista:
+
+| Brecha | Detalle | Recomendación |
+|---|---|---|
+| **Reactor / Spring WebFlux** | Sin proyectos documentados con Project Reactor o WebFlux; sí con Vert.x en producción (MasOrange) | Menciona que tu base en programación reactiva con Vert.x es directamente transferible a Reactor/WebFlux (conceptos de streams, backpressure y no bloqueo son equivalentes) |
+| **Amazon RDS** | Sin experiencia específica con el servicio gestionado de AWS; sí con MySQL/PostgreSQL en producción (Integ.ro, MasOrange) | Aclara que RDS es solo la capa de gestión en la nube sobre motores que ya dominas (MySQL/PostgreSQL) |
+| **Data Warehouse / Modelado Fact-Dim** | Gap real: no hay proyectos de Data Warehousing clásico en tu historial | Es la brecha más significativa para el Proyecto 1. Considera repasar fundamentos de star schema (fact/dim) antes de la entrevista, o ser transparente sobre tu experiencia en modelos relacionales/jerárquicos de alto volumen como área adyacente |
+| **Jobs batch de roll-up y agregación en RDS** | Sin proyectos de roll-up de Data Warehouse documentados | Vincúlalo con tu experiencia real optimizando el ciclo de vida del dato y consultas de alto volumen (Globant, Integ.ro) como base transferible |
+| **LOPD/RGPD explícito** | No se menciona LOPD/RGPD en ningún README de experiencia | Usa tu experiencia real en cumplimiento de auditoría y seguridad regulatoria bancaria (Bancolombia, everis) como equivalente funcional, siendo claro en que no fue LOPD/RGPD específicamente |
+| **Integraciones SMS/WhatsApp** | Sin integraciones de mensajería documentadas; sí con SOAP/REST heterogéneas (everis, Evo Banco) | Señala que tu experiencia normalizando integraciones con terceros heterogéneos es la base técnica, aunque el canal específico (SMS/WhatsApp) sea nuevo |
+
+**Sugerencia general:** el Proyecto 1 es tu mejor encaje (stack Java/Kafka/reactivo/Redis/SQL con experiencia real reciente); la brecha de Data Warehouse es manejable si el cliente prioriza el resto del stack. El Proyecto 2 tiene mejor encaje en diseño de dominio (DDD, máquinas de estado, audit log) que en los canales de integración específicos.
 
 ---
 

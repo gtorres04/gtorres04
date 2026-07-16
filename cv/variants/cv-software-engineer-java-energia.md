@@ -1,23 +1,25 @@
 # Gerlin Orlando Torres Saavedra
 
-**Senior Software Engineer Java | Arquitecturas Distribuidas & Event-Driven | DDD · Hexagonal · Kafka**
+**Senior Software Engineer Java | Microservicios Event-Driven & Reactivos | DDD · Hexagonal · Kafka · Vert.x**
 
 Cartagena de Indias, Colombia · Full Remote · Freelance
 📧 gerlin.torres@gmail.com · 🔗 [linkedin.com/in/gerlin-orlando-torres-saavedra](https://www.linkedin.com/in/gerlin-orlando-torres-saavedra)
 
-> CV adaptado a la oferta: **Software Engineer Java (sector energía)** — Proyecto 1 (Plataforma de Analítica, Senior, full time) y Proyecto 2 (Migración de CRM, Mid, part time 4h/día).
+> CV adaptado a la oferta (Ref. 1025): **Software Engineer Java (sector energía)** — Proyecto 1 (Plataforma de Analítica para contact center, Senior, full time) y Proyecto 2 (Migración de CRM, Mid, part time 4h/día). Proyectos de 3 meses · Freelance · Full remote.
 
 ---
 
 ## Perfil Profesional
 
-Ingeniero de Software con **más de 10 años de experiencia** diseñando y construyendo plataformas backend críticas en banca, pagos electrónicos, fondos de inversión, telco y grandes corporaciones (Inditex, El Corte Inglés, Bankinter, Evo Banco, Bancolombia, Protección, MasOrange). Especializado en **Java 8–21, Spring Boot 3, arquitectura hexagonal y Domain-Driven Design (DDD)**, con dominio comprobado de sistemas **event-driven** basados en **Kafka**, procesamiento reactivo, idempotencia y consistencia transaccional a gran escala. Experiencia real en producción con **Vert.x** (microservicios reactivos Java/Go, Redis, PostgreSQL) en el sector telco. Experiencia real modelando dominios complejos —más allá de APIs CRUD— con agregados, value objects, invariantes, máquinas de estado y auditoría, así como jobs batch de agregación y optimización de consultas sobre MySQL/PostgreSQL. Disponible en modalidad freelance, full remote.
+Ingeniero de Software con **más de 10 años de experiencia** diseñando y construyendo plataformas backend críticas en banca, pagos electrónicos, fondos de inversión, telco y grandes corporaciones (Inditex, El Corte Inglés, Bankinter, Evo Banco, Bancolombia, Protección, MasOrange). Especializado en **Java 8–21, Spring Boot 3, arquitectura hexagonal y Domain-Driven Design (DDD)**, con dominio comprobado de sistemas **event-driven** basados en **Kafka**, programación reactiva con **Vert.x** en producción, idempotencia y consistencia transaccional a gran escala sobre **PostgreSQL, MySQL y Redis**. Experiencia real modelando dominios complejos —más allá de APIs CRUD— con agregados, value objects, invariantes, máquinas de estado y audit log, así como jobs batch de agregación, rollup y optimización de consultas sobre modelos relacionales de alto volumen. Disponible en modalidad freelance, full remote, para incorporación inmediata en proyectos de 3 meses.
+
+**Encaje con la oferta:** cubro el stack completo del **Proyecto 1** (Java 17+, Kafka, Vert.x, Redis, MySQL/PostgreSQL, DDD/hexagonal, jobs batch) con experiencia de producción reciente, y aporto al **Proyecto 2** dominio real en modelado de agregados complejos, máquinas de estado, audit log e integridad transaccional sobre dominios financieros regulados.
 
 ---
 
 ## Competencias Clave (ATS)
 
-`Java 8/11/17/21` `Spring Boot 3` `Vert.x` `Kafka` `Event-Driven Architecture` `DDD` `Arquitectura Hexagonal` `Clean Architecture` `Microservicios` `Programación Reactiva (Vert.x, RxJava2, WebFlux, Reactor)` `Idempotencia` `Procesamiento Asíncrono` `PostgreSQL` `MySQL` `MongoDB` `Cosmos DB / Gremlin` `Redis` `Data Warehouse` `Modelado Fact/Dim` `Multitenancy` `Máquinas de Estado` `Audit Log` `Integridad Transaccional` `ISO 8583` `REST` `SOAP` `OpenAPI` `Kubernetes` `OpenShift` `Docker` `Azure` `Google Cloud Platform (GCP)` `Terraform` `GitHub Actions` `Jenkins` `CI/CD` `JUnit` `Karate` `TDD` `SonarQube` `Grafana` `Prometheus` `Zipkin` `Scrum`
+`Java 8/11/17/21` `Spring Boot 3` `Vert.x` `Kafka` `Event-Driven Architecture` `DDD` `Arquitectura Hexagonal` `Clean Architecture` `Microservicios` `Programación Reactiva (Vert.x, RxJava2)` `Idempotencia` `Procesamiento Asíncrono` `PostgreSQL` `MySQL` `MongoDB` `Cosmos DB / Gremlin` `Redis` `Optimización de Consultas e Índices` `Multitenancy` `Máquinas de Estado` `Audit Log` `Integridad Transaccional` `ISO 8583` `REST` `SOAP` `OpenAPI` `Kubernetes` `OpenShift` `Docker` `Azure` `Google Cloud Platform (GCP)` `Terraform` `GitHub Actions` `Jenkins` `CI/CD` `JUnit` `Karate` `TDD` `SonarQube` `Grafana` `Prometheus` `Zipkin` `Scrum`
 
 ---
 
@@ -26,58 +28,62 @@ Ingeniero de Software con **más de 10 años de experiencia** diseñando y const
 | Requisito | Proyecto | Experiencia aportada |
 |---|---|---|
 | Java 17+ | 1 | Java 17 (Paradigma Digital) y Java 21 (Globant) en producción |
-| Kafka / event-driven | 1 | Flujos pub/sub Kafka y Kafka PIPE en plataformas de alto volumen (Globant, Paradigma Digital) |
-| Programación reactiva (Vert.x/RxJava2, Reactor/WebFlux) | 1 | Experiencia real en producción con **Vert.x** construyendo microservicios reactivos Java/Go de baja latencia (MasOrange, sector telco) |
-| Redis, RDS/MySQL, SQL | 1 | Redis como acelerador de lectura y cache (Globant, MasOrange); modelado y optimización MySQL/PostgreSQL (Integ.ro, MasOrange) |
-| Migraciones de esquema / Data Warehouse, jobs batch | 1 | Modelado jerárquico de alto volumen sobre Cosmos DB/PostgreSQL y optimización del ciclo de vida del dato (Globant) |
-| DDD, arquitectura hexagonal, agregados, value objects, invariantes | 1 y 2 | Estándar de diseño aplicado en Globant, Paradigma Digital y Grupo Ditech |
-| Idempotencia y estados asíncronos | 1 y 2 | Módulo de pagos idempotente con redondeo automático (Integ.ro); consumers y eventos de dominio Kafka |
-| Modelo Client/Contract/SaleEvent con multitenancy | 2 | Modelado de jerarquías de dominio complejas y gestión de configuración multi-servicio con Consul (Bankinter) |
-| Máquina de estados del contrato y audit log | 2 | Flujos de valorización diaria con integridad de cálculo y trazabilidad total (SPIRIT/Protección) |
-| Integridad transaccional y modelado MySQL | 2 | Modelado transaccional MySQL en pagos (Integ.ro); integridad ISO 8583/MasterCard (EVOLVE) |
-| Integraciones SMS, email, WhatsApp, webhooks, callbacks | 2 | Integraciones SOAP/REST heterogéneas con entidades externas (everis); normalización de APIs de terceros (Evo Banco) |
-| Consentimiento LOPD/RGPD | 2 | Cumplimiento de políticas de seguridad, auditoría y trazabilidad regulatoria (Bancolombia, everis) |
+| Endpoints BFF sobre tablas ya pobladas | 1 | Diseño de APIs REST/BFF sobre modelos de datos existentes (Personalsoft/Bancolombia, Grupo Ditech/Evo Banco) |
+| Kafka / event-driven / consumers de baja frecuencia | 1 | Flujos pub/sub Kafka y Kafka PIPE en plataformas de alto volumen (Globant, Paradigma Digital, MasOrange) |
+| Programación reactiva (Vert.x/RxJava2, Reactor/WebFlux) | 1 | Experiencia real en producción con **Vert.x** construyendo microservicios reactivos Java/Go de baja latencia (MasOrange, sector telco). Sin experiencia directa con Project Reactor/WebFlux, pero con base sólida en programación reactiva transferible |
+| Redis, RDS/MySQL, SQL | 1 | Redis como acelerador de lectura y cache (Globant, MasOrange); modelado y optimización MySQL/PostgreSQL (Integ.ro, MasOrange). Sin experiencia específica con Amazon RDS, aunque sí con MySQL/PostgreSQL gestionados en cloud |
+| Migraciones de esquema / Data Warehouse, jobs batch de roll-up y agregación | 1 | Sin experiencia directa en Data Warehouse clásico (modelado fact/dim); sí en optimización del ciclo de vida del dato y modelos jerárquicos de alto volumen sobre Cosmos DB/PostgreSQL (Globant) |
+| Optimización de consultas, índices y modelos fact/dim | 1 | Optimización de consultas e índices en MySQL/PostgreSQL en módulos transaccionales de alto tráfico (Integ.ro, Globant). Sin experiencia documentada en modelado fact/dim de Data Warehouse |
+| DDD, arquitectura hexagonal, agregados, value objects, invariantes | 1 y 2 | Estándar de diseño aplicado de forma consistente en Globant, Paradigma Digital, Grupo Ditech y MasOrange |
+| Idempotencia y estados asíncronos | 1 y 2 | Módulo de pagos idempotente con redondeo automático (Integ.ro); consumers y eventos de dominio Kafka (Globant, Paradigma Digital, MasOrange) |
+| Modelo Client/Contract/SaleEvent con multitenancy | 2 | Modelado de jerarquías de dominio complejas (Inditex/Globant) y gestión de configuración multi-servicio con Consul (Bankinter) |
+| Máquina de estados del contrato y audit log | 2 | Flujos de valorización diaria con integridad de cálculo, trazabilidad total y auditoría regulatoria (SPIRIT/Protección, Personalsoft/Bancolombia) |
+| Integridad transaccional y modelado MySQL | 2 | Modelado transaccional MySQL en pagos (Integ.ro); integridad ISO 8583/MasterCard (EVOLVE); persistencia transaccional PostgreSQL (MasOrange) |
+| Gestión de ventas, activaciones, recuperaciones y comisiones | 2 | Dominio de valorización y consolidación diaria de operaciones financieras con reglas de negocio estrictas (SPIRIT/Protección) |
+| Integraciones SMS, email, WhatsApp, webhooks, callbacks | 2 | Integraciones SOAP/REST heterogéneas con entidades externas gubernamentales (everis); normalización de APIs de terceros (Evo Banco). Sin experiencia documentada específica en SMS/WhatsApp |
+| Consentimiento LOPD/RGPD | 2 | Sin proyectos con LOPD/RGPD documentados explícitamente; sí experiencia en cumplimiento de políticas de seguridad, auditoría y trazabilidad regulatoria sobre información sensible de clientes (Bancolombia, everis) |
 
 ---
 
 ## Logros Destacados
 
-- **Construí microservicios reactivos con Vert.x en Java y Go** (MasOrange, sector telco) sobre **PostgreSQL, Redis y Kafka**, con orquestación de procesos de negocio de larga duración mediante **Cadence** en Google Cloud Platform.
 - **Diseñé y desplegué una plataforma de KPIs en tiempo casi real** (Inditex/Globant) sobre **Java 21, Kafka, PostgreSQL, Cosmos DB/Gremlin y Redis**, procesando alto volumen de eventos con tiempos de respuesta estables bajo picos de carga.
+- **Construí microservicios reactivos con Vert.x en Java y Go** (MasOrange, sector telco) sobre **PostgreSQL, Redis y Kafka**, orquestando procesos de negocio de larga duración con **Cadence** en Google Cloud Platform.
 - **Implementé un módulo de pagos idempotente** con redondeo automático de transacciones, garantizando integridad transaccional completa entre débito y crédito (MySQL).
 - **Diseñé un modelo de dominio con invariantes financieras estrictas** (SPIRIT/Protección) asegurando coherencia entre operaciones diarias y su valor de cierre, sin discrepancias con fuentes de mercado.
 - **Modernicé el procesamiento de transacciones MasterCard (ISO 8583)** para El Corte Inglés, garantizando precisión transaccional y cumplimiento financiero en entorno de misión crítica.
 - **Normalicé e integré múltiples APIs de terceros heterogéneas** en el API Gateway corporativo de Evo Banco, imponiendo contratos RESTful consistentes sin degradar seguridad ni rendimiento.
-- **Reduje errores de configuración entre microservicios** en Bankinter con una plataforma de gestión centralizada (Consul), eliminando desalineaciones entre servicios y entornos.
-- **Lideré técnicamente un equipo de 4 personas** garantizando trazabilidad y auditoría exhaustiva en dominios financieros regulados.
+- **Centralicé la gestión de configuración de microservicios** en Bankinter mediante una plataforma basada en Consul, eliminando desalineaciones entre servicios y entornos.
+- **Diseñé y expuse una API REST de consulta documental** para Bancolombia con trazabilidad exhaustiva y cumplimiento estricto de auditoría regulatoria sobre información sensible de clientes.
+- **Lideré técnicamente un equipo de 4 personas** (QA, analista funcional y desarrolladores) garantizando trazabilidad y auditoría exhaustiva en dominios financieros regulados.
 
 ---
 
 ## Experiencia Profesional
 
 ### Senior Backend Engineer (Java/Go) — MasOrange (Freelance) · Ene 2026 – Mar 2026
-Microservicios reactivos políglotas en **Vert.x (Java) y Go** para plataforma de cobros telco (mas-collections): **PostgreSQL, Redis, Kafka** y orquestación de flujos con **Cadence**. Monorepo GitHub compilado con Bazel, despliegue en Kubernetes con Argo CD sobre **GCP/Terraform**.
+Diseñé y construí microservicios reactivos políglotas en **Vert.x (Java) y Go** para una plataforma de cobros del sector telco (mas-collections): persistencia transaccional en **PostgreSQL**, cache en **Redis**, mensajería asíncrona con **Kafka** y orquestación de procesos de negocio de larga duración con **Cadence**. Monorepo GitHub compilado con Bazel, despliegue en Kubernetes con Argo CD sobre **GCP/Terraform**, CI/CD con Jenkins y GitHub Actions, cobertura verificada con SonarQube.
 
 ### Senior Java Software Engineer — Globant · Ago 2023 – Presente
-Java 21, Spring Boot 3, arquitectura hexagonal y DDD para plataforma de KPIs de Inditex: modelo jerárquico sobre **Cosmos DB/Gremlin**, **PostgreSQL** transaccional, **Redis** de lectura y **Kafka** pub/sub. Kubernetes, GitHub Actions, JUnit/Karate/ICaRUS, Grafana/Prometheus/Zipkin.
+Desarrollo y lidero backend con **Java 21, Spring Boot 3**, arquitectura hexagonal y DDD para la plataforma de KPIs de Inditex: modelo jerárquico sobre **Cosmos DB/Gremlin**, **PostgreSQL** transaccional, **Redis** de lectura y **Kafka** pub/sub, optimizando el ciclo de vida del dato para cálculos de alto volumen. Despliegue en Kubernetes, CI/CD con GitHub Actions, testing con JUnit/Karate/ICaRUS y observabilidad con Grafana/Prometheus/Zipkin.
 
 ### Senior Software Development Engineer — Paradigma Digital · Abr 2021 – Mar 2024
-Technical Lead microservicio AIDANA (Inditex): parametrización estratégica con **Redis, Kafka PIPE**. Backend Programa.cat con **PostgreSQL/JPA/Hibernate, Kafka** y eventos de dominio. EVOLVE (El Corte Inglés): integridad transaccional en procesamiento **ISO 8583**.
+Lideré técnicamente el microservicio AIDANA (Inditex): parametrización estratégica con **Redis y Kafka PIPE** bajo latencias mínimas y alta carga. Construí el backend de Programa.cat con **PostgreSQL/JPA/Hibernate, Kafka** y eventos de dominio, integrando datos heterogéneos entre administraciones. En EVOLVE (El Corte Inglés) garanticé integridad transaccional en el procesamiento **ISO 8583** de MasterCard.
 
 ### Arquitecto Java — Grupo Ditech · Oct 2019 – Abr 2021
-Normalización de APIs de terceros en API Gateway (Evo Banco); plataforma de configuración multi-servicio con **Consul** (Bankinter).
+Normalicé APIs de terceros heterogéneas en el API Gateway corporativo de Evo Banco, imponiendo contratos RESTful consistentes. Diseñé una plataforma de configuración multi-servicio con **Consul** para Bankinter, eliminando desalineaciones entre servicios y entornos.
 
 ### Líder Técnico Java — Makers Solutions S.A.S · Nov 2018 – Oct 2019
-Dominio financiero complejo (SPIRIT/Protección): valorización diaria de portafolio con invariantes de consistencia. Lideré equipo de 4 personas.
+Lideré un equipo de 4 personas en el dominio financiero SPIRIT/Protección: valorización diaria de portafolio con invariantes de consistencia y trazabilidad completa entre operaciones y cierre de mercado.
 
 ### Analista Ingeniería de Software — Personalsoft S.A.S / Bancolombia · Nov 2017 – Oct 2018
-API REST de consulta documental con trazabilidad exhaustiva y cumplimiento de auditoría regulatoria.
+Diseñé y desarrollé una API REST de consulta documental integrada con Oracle WCC, con trazabilidad exhaustiva y cumplimiento estricto de auditoría regulatoria sobre información sensible de clientes.
 
 ### Desarrollador Senior Java — integ.ro · Sep 2017 – Nov 2017
-Microservicios Java 8/Spring Boot sobre **MySQL**: módulo de pagos idempotente con redondeo automático.
+Desarrollé microservicios Java 8/Spring Boot sobre **MySQL**: módulo de pagos idempotente con redondeo automático y transferencia a micro-ahorro, garantizando integridad transaccional entre débito y crédito.
 
 ### Otras experiencias
-Senior Solutions Analyst — everis (portal VUCE, integraciones SOAP gubernamentales) · Software Developer — PRAGMA S.A. (Protección) · Analista Desarrollador Java — ingemedic & Metrología · Docente / Desarrollador Junior — Comfenalco.
+Senior Solutions Analyst — everis (portal VUCE, integraciones SOAP con DIAN, INVIMA, ICA y otras entidades gubernamentales) · Software Developer — PRAGMA S.A. (portlets +Protección sobre WebSphere Portal) · Analista Desarrollador Java — ingemedic & Metrología · Docente / Desarrollador Junior — Comfenalco.
 
 ---
 
@@ -89,7 +95,7 @@ Java 8/11/17/21 · Go · Spring Boot 3 · Vert.x · Kafka · Redis · PostgreSQL
 
 ## Disponibilidad
 
-Freelance · Full remote · Full time (Proyecto 1) o part time 4h/día (Proyecto 2) · Incorporación para proyecto de 3 meses.
+Freelance · Full remote · Full time (Proyecto 1) o part time 4h/día (Proyecto 2) · Incorporación inmediata para proyecto de 3 meses · Tarifa acorde a banda 30-35 €/hora.
 
 ---
 

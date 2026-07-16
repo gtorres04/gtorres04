@@ -2,7 +2,7 @@
 
 **Senior Software Engineer Java | Microservicios Event-Driven & Reactivos | DDD · Hexagonal · Kafka · Vert.x**
 
-Cartagena de Indias, Colombia · Full Remote · Freelance
+Full Remote · Freelance
 📧 gerlin.torres@gmail.com · 🔗 [linkedin.com/in/gerlin-orlando-torres-saavedra](https://www.linkedin.com/in/gerlin-orlando-torres-saavedra)
 
 ---

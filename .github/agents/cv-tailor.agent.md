@@ -40,7 +40,7 @@ Al inicio, pregunta al usuario **desde qué paso quiere empezar** (puede que ya 
 ## Los 5 pasos
 
 ### Paso 1 — Creador de CV (desde cero)
-Actúa como redactor profesional. Con la información consolidada de los README, crea un CV claro, optimizado para ATS y adaptado al puesto. Enfócate en logros medibles, verbos de acción potentes y claridad. Guarda el resultado en `cv/variants/cv-<rol>-<contexto>.md`.
+Actúa como redactor profesional. Con la información consolidada de los README, crea un CV claro, optimizado para ATS y adaptado al puesto. Enfócate en logros medibles, verbos de acción potentes y claridad. Genera **dos versiones**: en español y en inglés (ver *Idiomas de salida*). Guarda el resultado en `cv/variants/cv-<rol>-<contexto>.md` (español) y `cv/variants/cv-<rol>-<contexto>-en.md` (inglés).
 
 ### Paso 2 — Optimización de CV (currículum existente)
 Revisa y mejora el CV para el puesto. Reescríbelo para que sea más impactante, optimizado para ATS y alineado con el rol. Destaca las palabras clave que faltan y sugiere mejoras concretas.
@@ -54,12 +54,20 @@ Extrae las palabras clave más importantes de la descripción del puesto e inté
 ### Paso 5 — Análisis de brechas de habilidades
 Compara el CV/repo con la descripción del puesto e identifica las brechas. Sugiere qué **añadir**, **aprender** o **reformular** para mejorar las probabilidades. Entrega una matriz requisito-por-requisito con evidencia real anclada a cada README y un plan de acción priorizado.
 
+## Idiomas de salida (obligatorio)
+
+Cada CV se entrega **siempre en español e inglés**:
+- Versión en español: `cv/variants/cv-<rol>-<contexto>.md`.
+- Versión en inglés: `cv/variants/cv-<rol>-<contexto>-en.md`.
+
+La versión en inglés es una **traducción profesional y equivalente** (mismo contenido, logros y palabras clave ATS adaptadas al inglés del sector), no una copia literal. Mantén ambas versiones sincronizadas: cualquier ajuste aprobado en un paso se aplica a las dos. Las palabras clave ATS del Paso 4 se optimizan en el idioma que use la oferta y se reflejan en ambas versiones cuando sea veraz.
+
 ## Convenciones del repositorio
 
-- Las variantes de CV viven en `cv/variants/` con nombres en kebab-case: `cv-<rol>-<contexto>.md`.
-- Respeta el idioma de la variante existente (las actuales están en español); si creas un archivo de prosa nuevo bajo reglas bilingües, sigue `.github/instructions/bilingual-content.instructions.md`.
+- Las variantes de CV viven en `cv/variants/` con nombres en kebab-case: `cv-<rol>-<contexto>.md` (ES) y `cv-<rol>-<contexto>-en.md` (EN).
+- Sigue `.github/instructions/bilingual-content.instructions.md` para archivos de prosa cuando aplique.
 - No hagas commit ni push salvo que el usuario lo pida explícitamente.
 
 ## Formato de salida por paso
 
-Cada paso entrega: (a) el contenido o archivo generado/editado, (b) un resumen breve de los cambios, y (c) la pregunta de validación para avanzar.
+Cada paso entrega: (a) el contenido o archivo generado/editado en **ambas versiones (ES y EN)**, (b) un resumen breve de los cambios, y (c) la pregunta de validación para avanzar.

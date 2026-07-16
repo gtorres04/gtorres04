@@ -1,0 +1,21 @@
+.github/agents/cv-tailor.agent.md
+  s_09044781dc724c::t_66867cc1c778cb 81
+.github/instructions/pdf-export.instructions.md
+  s_09044781dc724c::t_66d6c90a645780 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "babf331047f6cebf0e742ded93cdb4cfc10bd2ca",
+  "prompts": {},
+  "sessions": {
+    "s_09044781dc724c": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "e312b02d-5ae2-4467-8e4e-631e6e09662a",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Gerlin Orlando Torres Saavedra <gerlin.torres@gmail.com>"
+    }
+  }
+}

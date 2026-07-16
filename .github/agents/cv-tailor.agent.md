@@ -78,6 +78,7 @@ La versión en inglés es una **traducción profesional y equivalente** (mismo c
 
 - Las variantes de CV viven en `cv/variants/` con nombres en kebab-case: `cv-<rol>-<contexto>.md` (ES) y `cv-<rol>-<contexto>-en.md` (EN).
 - Sigue `.github/instructions/bilingual-content.instructions.md` para archivos de prosa cuando aplique.
+- Para exportar cualquier CV a PDF, usa el script `scripts/md_to_pdf.py` (ver `.github/instructions/pdf-export.instructions.md`); no improvises otra herramienta.
 - No hagas commit ni push salvo que el usuario lo pida explícitamente.
 
 ## Formato de salida por paso

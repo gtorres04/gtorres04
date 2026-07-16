@@ -10,7 +10,11 @@ Soy **Gerlin Orlando Torres Saavedra**, Senior Java Software Engineer en Globant
 - 📫 Cómo contactarme: gerlin.torres@gmail.com · [LinkedIn](https://www.linkedin.com/in/gerlin-orlando-torres-saavedra)
 - ⚡ Dato curioso: empecé desarrollando aplicaciones web con PHP y Flash (AS3), y también fui docente universitario de ingeniería de software durante varios años.
 
-### 🛠️ Tecnologías y herramientas
+### � More details
+
+- [Work Experience & Resume](work-experience/README.md)
+
+### �🛠️ Tecnologías y herramientas
 
 - **Lenguajes:** Java 11–21, Kotlin, Go, Rust
 - **Frameworks:** Spring Boot 3, Quarkus, Vert.x, JEE

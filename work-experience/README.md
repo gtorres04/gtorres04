@@ -34,7 +34,7 @@ Mi foco es crear software claro, mantenible y resiliente que genere impacto real
 
 ---
 
-For the full work experience and education details, see the [complete resume](../resume-work-experience.md).
+For the full work experience and education details, browse the directories below.
 
 ---
 

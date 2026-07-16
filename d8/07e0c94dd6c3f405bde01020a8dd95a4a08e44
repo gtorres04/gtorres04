@@ -1,0 +1,19 @@
+resume-work-experience.md
+  s_54b2d604558343::t_3601c6f138be3f 1-205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "d807e0c94dd6c3f405bde01020a8dd95a4a08e44",
+  "prompts": {},
+  "sessions": {
+    "s_54b2d604558343": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "56c5b3fe-fedd-4780-85f0-c397ee7f721a",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Gerlin Orlando Torres Saavedra <gerlin.torres@gmail.com>"
+    }
+  }
+}

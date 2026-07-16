@@ -1,0 +1,19 @@
+scripts/md_to_pdf.py
+  s_09044781dc724c::t_267a3cfbb04236 1-147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "1834ed229d5bbd60407e7aff5be75d88b83bb109",
+  "prompts": {},
+  "sessions": {
+    "s_09044781dc724c": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "e312b02d-5ae2-4467-8e4e-631e6e09662a",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Gerlin Orlando Torres Saavedra <gerlin.torres@gmail.com>"
+    }
+  }
+}

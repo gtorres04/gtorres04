@@ -87,25 +87,42 @@ Antes de enviar este CV, ten en cuenta estas brechas frente a la oferta y cómo 
 ## Experiencia Profesional
 
 ### Senior Backend Engineer (Java/Go) — MasOrange (Freelance) · Ene 2026 – Mar 2026
-Diseñé y construí microservicios reactivos políglotas en **Vert.x (Java) y Go** para una plataforma de cobros del sector telco (mas-collections): persistencia transaccional en **PostgreSQL**, cache en **Redis**, mensajería asíncrona con **Kafka** y orquestación de procesos de negocio de larga duración con **Cadence**. Monorepo GitHub compilado con Bazel, despliegue en Kubernetes con Argo CD sobre **GCP/Terraform**, CI/CD con Jenkins y GitHub Actions, cobertura verificada con SonarQube.
+- Entregué microservicios reactivos políglotas en **Vert.x (Java) y Go** para la plataforma de cobros telco *mas-collections*, sosteniendo procesamiento de baja latencia bajo carga concurrente.
+- Garanticé fiabilidad y tolerancia a fallos en transacciones distribuidas orquestando procesos de negocio de larga duración con **Cadence**, eliminando estados inconsistentes ante caídas parciales.
+- Integré persistencia transaccional en **PostgreSQL** y cache en **Redis** con mensajería asíncrona **Kafka**, reduciendo el acoplamiento entre servicios del monorepo.
+- Aceleré el ciclo CI/CD construyendo pipelines de **Jenkins** y **GitHub Actions** sobre un monorepo compilado con **Bazel**, con cobertura y calidad verificadas en **SonarQube**.
+- Automaticé despliegues en **Kubernetes** con **Argo CD** (GitOps) sobre infraestructura **GCP** definida como código con **Terraform**, empaquetando servicios con Docker y Helm.
 
 ### Senior Java Software Engineer — Globant · Ago 2023 – Presente
-Desarrollo y lidero backend con **Java 21, Spring Boot 3**, arquitectura hexagonal y DDD para la plataforma de KPIs de Inditex: modelo jerárquico sobre **Cosmos DB/Gremlin**, **PostgreSQL** transaccional, **Redis** de lectura y **Kafka** pub/sub, optimizando el ciclo de vida del dato para cálculos de alto volumen. Despliegue en Kubernetes, CI/CD con GitHub Actions, testing con JUnit/Karate/ICaRUS y observabilidad con Grafana/Prometheus/Zipkin.
+- Diseñé y lidero una plataforma de cálculo de KPIs en tiempo casi real para Inditex con **Java 21 y Spring Boot 3**, manteniendo tiempos de respuesta estables incluso ante picos de carga.
+- Modelé una jerarquía global de producto sobre **Cosmos DB/Gremlin, PostgreSQL y Redis**, garantizando consistencia e integridad entre tres motores de datos heterogéneos.
+- Optimicé el ciclo de vida del dato en cálculos de alto volumen (mensuales, semestrales y anuales), sosteniendo el rendimiento sin degradar la disponibilidad.
+- Aseguré la calidad con **JUnit, Karate e ICaRUS** (pruebas unitarias, integración, E2E, carga y caos) y observabilidad end-to-end con **Grafana, Prometheus y Zipkin**.
+- Desplegué de forma continua sobre **Kubernetes** con **GitHub Actions y Argo Workflows**, reduciendo el tiempo entre commit y producción.
 
 ### Senior Software Development Engineer — Paradigma Digital · Abr 2021 – Mar 2024
-Lideré técnicamente el microservicio AIDANA (Inditex): parametrización estratégica con **Redis y Kafka PIPE** bajo latencias mínimas y alta carga. Construí el backend de Programa.cat con **PostgreSQL/JPA/Hibernate, Kafka** y eventos de dominio, integrando datos heterogéneos entre administraciones. En EVOLVE (El Corte Inglés) garanticé integridad transaccional en el procesamiento **ISO 8583** de MasterCard.
+- Lideré técnicamente el microservicio estratégico **AIDANA** (Inditex), unificando datos dispersos con **Redis y Kafka PIPE** y sosteniendo latencias mínimas bajo alta carga.
+- Construí el backend de **Programa.cat** con **PostgreSQL/JPA/Hibernate, Kafka** y eventos de dominio, integrando criterios heterogéneos entre administraciones con trazabilidad completa.
+- Garanticé integridad transaccional y compatibilidad de protocolo en el procesamiento **ISO 8583** de MasterCard (EVOLVE, El Corte Inglés) en un entorno de misión crítica.
+- Elevé la calidad de entrega con pipelines en **Jenkins/GitHub Actions**, **SonarQube** y mutation tests, reforzando la fiabilidad de plataformas institucionales.
 
 ### Arquitecto Java — Grupo Ditech · Oct 2019 – Abr 2021
-Normalicé APIs de terceros heterogéneas en el API Gateway corporativo de Evo Banco, imponiendo contratos RESTful consistentes. Diseñé una plataforma de configuración multi-servicio con **Consul** para Bankinter, eliminando desalineaciones entre servicios y entornos.
+- Normalicé múltiples APIs de terceros heterogéneas en el API Gateway corporativo de **Evo Banco**, imponiendo contratos RESTful consistentes sin degradar seguridad ni rendimiento.
+- Diseñé una plataforma de configuración multi-servicio con **Consul** para **Bankinter**, eliminando desalineaciones entre servicios y entornos y reduciendo incidencias de configuración.
+- Definí estándares de arquitectura y gobernanza de APIs (**Azure API Management**), elevando la coherencia técnica entre equipos de dos entidades bancarias.
 
 ### Líder Técnico Java — Makers Solutions S.A.S · Nov 2018 – Oct 2019
-Lideré un equipo de 4 personas en el dominio financiero SPIRIT/Protección: valorización diaria de portafolio con invariantes de consistencia y trazabilidad completa entre operaciones y cierre de mercado.
+- Dirigí un equipo de **4 personas** (QA, analista funcional y 2 desarrolladores) en el proyecto financiero **SPIRIT** (Protección), definiendo arquitectura, prioridades y estándares de calidad.
+- Diseñé flujos de valorización diaria de portafolio con invariantes de consistencia estrictas, eliminando discrepancias entre operaciones internas y fuentes de mercado.
+- Reduje incidencias operativas y mejoré la disponibilidad de la información usada en decisiones de inversión mediante ventanas de cierre fiables y trazabilidad total.
 
 ### Analista Ingeniería de Software — Personalsoft S.A.S / Bancolombia · Nov 2017 – Oct 2018
-Diseñé y desarrollé una API REST de consulta documental integrada con Oracle WCC, con trazabilidad exhaustiva y cumplimiento estricto de auditoría regulatoria sobre información sensible de clientes.
+- Diseñé y expuse una **API REST** unificada de consulta documental integrada con Oracle WCC, reemplazando integraciones individuales y reduciendo tiempos de acceso.
+- Implementé trazabilidad exhaustiva y controles de auditoría sobre información sensible de clientes, cumpliendo políticas estrictas de seguridad regulatoria bancaria.
 
 ### Desarrollador Senior Java — integ.ro · Sep 2017 – Nov 2017
-Desarrollé microservicios Java 8/Spring Boot sobre **MySQL**: módulo de pagos idempotente con redondeo automático y transferencia a micro-ahorro, garantizando integridad transaccional entre débito y crédito.
+- Desarrollé un **módulo de pagos idempotente** en Java 8/Spring Boot sobre **MySQL**, garantizando integridad transaccional completa entre débito y crédito.
+- Implementé redondeo automático de transacciones con transferencia a micro-ahorro, asegurando un flujo de pago trazable y consistente para el usuario final.
 
 ### Otras experiencias
 Senior Solutions Analyst — everis (portal VUCE, integraciones SOAP con DIAN, INVIMA, ICA y otras entidades gubernamentales) · Software Developer — PRAGMA S.A. (portlets +Protección sobre WebSphere Portal) · Analista Desarrollador Java — ingemedic & Metrología · Docente / Desarrollador Junior — Comfenalco.

@@ -5,68 +5,17 @@
 Cartagena de Indias, Colombia · Full Remote · Freelance
 📧 gerlin.torres@gmail.com · 🔗 [linkedin.com/in/gerlin-orlando-torres-saavedra](https://www.linkedin.com/in/gerlin-orlando-torres-saavedra)
 
-> CV adaptado a la oferta (Ref. 1025): **Software Engineer Java (sector energía)** — Proyecto 1 (Plataforma de Analítica para contact center, Senior, full time) y Proyecto 2 (Migración de CRM, Mid, part time 4h/día). Proyectos de 3 meses · Freelance · Full remote · 30-35 €/hora.
-
 ---
 
 ## Perfil Profesional
 
-Ingeniero de Software con **más de 10 años de experiencia** diseñando y construyendo plataformas backend críticas basadas en **microservicios Java event-driven** para banca, pagos electrónicos, fondos de inversión, telco y grandes corporaciones (Inditex, El Corte Inglés, Bankinter, Evo Banco, Bancolombia, Protección, MasOrange). Especializado en **Java 8–21, Spring Boot 3, arquitectura hexagonal y Domain-Driven Design (DDD)**, con dominio comprobado de **Kafka** (consumers y eventos de dominio), programación reactiva con **Vert.x** en producción, **idempotencia**, **procesamiento asíncrono** y consistencia transaccional a gran escala sobre **PostgreSQL, MySQL y Redis**. Experiencia real modelando dominios complejos —más allá de APIs CRUD— con agregados, value objects, invariantes, máquinas de estado y audit log, así como optimización de consultas e índices sobre modelos relacionales de alto volumen. Disponible en modalidad freelance, full remote, para incorporación inmediata en proyectos de 3 meses.
-
-**Encaje con la oferta:** cubro la mayor parte del stack del **Proyecto 1** (Java 17+, Kafka, programación reactiva con Vert.x, Redis, MySQL/PostgreSQL, DDD/hexagonal) con experiencia de producción reciente, con brechas puntuales en Data Warehouse/fact-dim y Reactor/WebFlux (detalladas más abajo). Para el **Proyecto 2** aporto dominio real en modelado de agregados complejos, máquinas de estado, audit log e integridad transaccional sobre dominios financieros regulados, con una brecha en integraciones SMS/WhatsApp y LOPD/RGPD explícito.
+Ingeniero de Software con **más de 10 años de experiencia** diseñando y construyendo plataformas backend críticas basadas en **microservicios Java event-driven** para banca, pagos electrónicos, fondos de inversión, telco y grandes corporaciones (Inditex, El Corte Inglés, Bankinter, Evo Banco, Bancolombia, Protección, MasOrange). Especializado en **Java 8–21, Spring Boot 3, arquitectura hexagonal y Domain-Driven Design (DDD)**, con dominio comprobado de **Kafka** (consumers y eventos de dominio), programación reactiva con **Vert.x** en producción, **idempotencia**, **procesamiento asíncrono** y consistencia transaccional a gran escala sobre **PostgreSQL, MySQL y Redis**. Experiencia real modelando dominios complejos —más allá de APIs CRUD— con agregados, value objects, invariantes, máquinas de estado y audit log, así como optimización de consultas e índices sobre modelos relacionales de alto volumen. Disponible en modalidad freelance, full remote, para incorporación inmediata en nuevos proyectos.
 
 ---
 
-## Competencias Clave (ATS)
-
-### Con experiencia comprobada
+## Competencias Clave
 
 `Java 8/11/17/21` `Spring Boot 3` `Vert.x` `Kafka` `Event-Driven Architecture` `DDD` `Arquitectura Hexagonal` `Clean Architecture` `Microservicios` `Programación Reactiva` `Idempotencia` `Procesamiento Asíncrono` `PostgreSQL` `MySQL` `MongoDB` `Cosmos DB / Gremlin` `Redis` `Optimización de Consultas e Índices` `Multitenancy` `Máquinas de Estado` `Audit Log` `Integridad Transaccional` `ISO 8583` `REST` `SOAP` `OpenAPI` `Kubernetes` `OpenShift` `Docker` `Azure` `Google Cloud Platform (GCP)` `Terraform` `GitHub Actions` `Jenkins` `CI/CD` `JUnit` `Karate` `TDD` `SonarQube` `Grafana` `Prometheus` `Zipkin` `Scrum`
-
-### Requeridas por la oferta, sin experiencia directa documentada
-
-`RxJava2` `Project Reactor` `Spring WebFlux` `Amazon RDS` `Data Warehouse` `Modelado Fact/Dim` `Jobs Batch de Roll-up` `LOPD/RGPD` `Integraciones SMS/WhatsApp`
-
-> Incluidas aquí para no perder matching con el ATS del cliente, pero ver la sección **Brechas Detectadas y Recomendaciones** antes de enviar el CV: no se afirma dominio de estas tecnologías en el cuerpo del documento.
-
----
-
-## Encaje con los Requisitos de la Oferta
-
-| Requisito | Proyecto | Experiencia aportada |
-|---|---|---|
-| Java 17+ | 1 | Java 17 (Paradigma Digital) y Java 21 (Globant) en producción |
-| Endpoints BFF sobre tablas ya pobladas | 1 | Diseño de APIs REST/BFF sobre modelos de datos existentes (Personalsoft/Bancolombia, Grupo Ditech/Evo Banco) |
-| Kafka / event-driven / consumers de baja frecuencia | 1 | Flujos pub/sub Kafka y Kafka PIPE en plataformas de alto volumen (Globant, Paradigma Digital, MasOrange) |
-| Programación reactiva (Vert.x/RxJava2, Reactor/WebFlux) | 1 | Experiencia real en producción con **Vert.x** construyendo microservicios reactivos Java/Go de baja latencia (MasOrange, sector telco). Sin experiencia directa con Project Reactor/WebFlux, pero con base sólida en programación reactiva transferible |
-| Redis, RDS/MySQL, SQL | 1 | Redis como acelerador de lectura y cache (Globant, MasOrange); modelado y optimización MySQL/PostgreSQL (Integ.ro, MasOrange). Sin experiencia específica con Amazon RDS, aunque sí con MySQL/PostgreSQL gestionados en cloud |
-| Migraciones de esquema / Data Warehouse, jobs batch de roll-up y agregación | 1 | Sin experiencia directa en Data Warehouse clásico (modelado fact/dim); sí en optimización del ciclo de vida del dato y modelos jerárquicos de alto volumen sobre Cosmos DB/PostgreSQL (Globant) |
-| Optimización de consultas, índices y modelos fact/dim | 1 | Optimización de consultas e índices en MySQL/PostgreSQL en módulos transaccionales de alto tráfico (Integ.ro, Globant). Sin experiencia documentada en modelado fact/dim de Data Warehouse |
-| DDD, arquitectura hexagonal, agregados, value objects, invariantes | 1 y 2 | Estándar de diseño aplicado de forma consistente en Globant, Paradigma Digital, Grupo Ditech y MasOrange |
-| Idempotencia y estados asíncronos | 1 y 2 | Módulo de pagos idempotente con redondeo automático (Integ.ro); consumers y eventos de dominio Kafka (Globant, Paradigma Digital, MasOrange) |
-| Modelo Client/Contract/SaleEvent con multitenancy | 2 | Modelado de jerarquías de dominio complejas (Inditex/Globant) y gestión de configuración multi-servicio con Consul (Bankinter) |
-| Máquina de estados del contrato y audit log | 2 | Flujos de valorización diaria con integridad de cálculo, trazabilidad total y auditoría regulatoria (SPIRIT/Protección, Personalsoft/Bancolombia) |
-| Integridad transaccional y modelado MySQL | 2 | Modelado transaccional MySQL en pagos (Integ.ro); integridad ISO 8583/MasterCard (EVOLVE); persistencia transaccional PostgreSQL (MasOrange) |
-| Gestión de ventas, activaciones, recuperaciones y comisiones | 2 | Dominio de valorización y consolidación diaria de operaciones financieras con reglas de negocio estrictas (SPIRIT/Protección) |
-| Integraciones SMS, email, WhatsApp, webhooks, callbacks | 2 | Integraciones SOAP/REST heterogéneas con entidades externas gubernamentales (everis); normalización de APIs de terceros (Evo Banco). Sin experiencia documentada específica en SMS/WhatsApp |
-| Consentimiento LOPD/RGPD | 2 | Sin proyectos con LOPD/RGPD documentados explícitamente; sí experiencia en cumplimiento de políticas de seguridad, auditoría y trazabilidad regulatoria sobre información sensible de clientes (Bancolombia, everis) |
-
----
-
-## Brechas Detectadas y Recomendaciones
-
-Antes de enviar este CV, ten en cuenta estas brechas frente a la oferta y cómo abordarlas honestamente en la carta de presentación o entrevista:
-
-| Brecha | Detalle | Recomendación |
-|---|---|---|
-| **Reactor / Spring WebFlux** | Sin proyectos documentados con Project Reactor o WebFlux; sí con Vert.x en producción (MasOrange) | Menciona que tu base en programación reactiva con Vert.x es directamente transferible a Reactor/WebFlux (conceptos de streams, backpressure y no bloqueo son equivalentes) |
-| **Amazon RDS** | Sin experiencia específica con el servicio gestionado de AWS; sí con MySQL/PostgreSQL en producción (Integ.ro, MasOrange) | Aclara que RDS es solo la capa de gestión en la nube sobre motores que ya dominas (MySQL/PostgreSQL) |
-| **Data Warehouse / Modelado Fact-Dim** | Gap real: no hay proyectos de Data Warehousing clásico en tu historial | Es la brecha más significativa para el Proyecto 1. Considera repasar fundamentos de star schema (fact/dim) antes de la entrevista, o ser transparente sobre tu experiencia en modelos relacionales/jerárquicos de alto volumen como área adyacente |
-| **Jobs batch de roll-up y agregación en RDS** | Sin proyectos de roll-up de Data Warehouse documentados | Vincúlalo con tu experiencia real optimizando el ciclo de vida del dato y consultas de alto volumen (Globant, Integ.ro) como base transferible |
-| **LOPD/RGPD explícito** | No se menciona LOPD/RGPD en ningún README de experiencia | Usa tu experiencia real en cumplimiento de auditoría y seguridad regulatoria bancaria (Bancolombia, everis) como equivalente funcional, siendo claro en que no fue LOPD/RGPD específicamente |
-| **Integraciones SMS/WhatsApp** | Sin integraciones de mensajería documentadas; sí con SOAP/REST heterogéneas (everis, Evo Banco) | Señala que tu experiencia normalizando integraciones con terceros heterogéneos es la base técnica, aunque el canal específico (SMS/WhatsApp) sea nuevo |
-
-**Sugerencia general:** el Proyecto 1 es tu mejor encaje (stack Java/Kafka/reactivo/Redis/SQL con experiencia real reciente); la brecha de Data Warehouse es manejable si el cliente prioriza el resto del stack. El Proyecto 2 tiene mejor encaje en diseño de dominio (DDD, máquinas de estado, audit log) que en los canales de integración específicos.
 
 ---
 
@@ -138,7 +87,7 @@ Java 8/11/17/21 · Go · Spring Boot 3 · Vert.x · Kafka · Redis · PostgreSQL
 
 ## Disponibilidad
 
-Freelance · Full remote · Full time (Proyecto 1) o part time 4h/día (Proyecto 2) · Incorporación inmediata para proyecto de 3 meses · Tarifa acorde a banda 30-35 €/hora.
+Freelance · Full remote · Disponible para incorporación inmediata en nuevos proyectos.
 
 ---
 

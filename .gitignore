@@ -1,0 +1,6 @@
+# Python virtual env para la exportación a PDF
+.venv/
+
+# Artefactos comunes de Python
+__pycache__/
+*.pyc

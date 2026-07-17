@@ -85,6 +85,14 @@ Java 8/11/17/21 · Go · Spring Boot 3 · Vert.x · Kafka · Redis · PostgreSQL
 
 ---
 
+## Educación
+
+- **Especialista en Ingeniería de Software** — Fundación Universitaria Tecnológico Comfenalco · 2010 – 2011
+- **Ingeniero de Sistemas** — Politécnico Grancolombiano · 2005 – 2009
+- **Tecnología en Sistemas de Información** — Fundación Universitaria Tecnológico Comfenalco · 2005 – 2007
+
+---
+
 ## Disponibilidad
 
 Freelance · Full remote · Disponible para incorporación inmediata en nuevos proyectos.

@@ -1,0 +1,25 @@
+.gitignore
+  s_d5a2cc211ea69f::t_c69ac4c6ad9673 1-6
+cv/variants/cv-software-engineer-java-energia-en.md
+  s_d5a2cc211ea69f::t_8da574bed5cf67 88-95
+cv/variants/cv-software-engineer-java-energia.md
+  s_d5a2cc211ea69f::t_68467b1fdc6d4e 88-95
+scripts/setup_pdf_env.sh
+  s_d5a2cc211ea69f::t_0377b4c653d4e4 1-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7f9877d6958a72cc7f756f7d7a27dc2ea9df4382",
+  "prompts": {},
+  "sessions": {
+    "s_d5a2cc211ea69f": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "e1e03ae6-acde-4799-9a68-47a6958bc5be",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Gerlin Orlando Torres Saavedra <gerlin.torres@gmail.com>"
+    }
+  }
+}

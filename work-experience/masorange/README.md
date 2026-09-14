@@ -21,6 +21,8 @@ The codebase was hosted in a **single GitHub monorepo**, built and managed with 
 
 Infrastructure was hosted on **Google Cloud Platform (GCP)** and defined as code with **Terraform**. Deployments to **Kubernetes** were managed through **Argo CD** (GitOps), packaging services as **Docker** artifacts with **Helm** charts. I also collaborated on observability, instrumenting services with **Prometheus** metrics and building dashboards in **Grafana**, as well as supporting data analysis with **BigQuery** and reporting through **Looker Studio**.
 
+I used **Claude Code** as part of the development workflow, tailoring the project harness and instructions so the LLM could work within the repository context, technical constraints, and engineering conventions. I retained technical ownership of the architecture and reviewed and validated generated changes before integration.
+
 ### Tech Stack
 
 - **Languages:** Java, Go
@@ -36,6 +38,7 @@ Infrastructure was hosted on **Google Cloud Platform (GCP)** and defined as code
 - **CI/CD:** Jenkins, GitHub Actions
 - **Code Quality:** SonarQube
 - **Deployment:** Kubernetes, Argo CD, Docker, Helm
+- **AI-Assisted Development:** Claude Code, LLM development harness configuration
 
 ---
 
@@ -56,6 +59,8 @@ El código se almacenaba en un **repositorio único de GitHub (monorepo)**, comp
 
 La infraestructura estaba alojada en **Google Cloud Platform (GCP)** y definida como código con **Terraform**. Los despliegues en **Kubernetes** se gestionaban mediante **Argo CD** (GitOps), empaquetando los servicios como artefactos **Docker** con diagramas **Helm**. También colaboré en observabilidad, instrumentando servicios con métricas de **Prometheus** y construyendo paneles en **Grafana**, además de apoyar el análisis de datos con **BigQuery** y la creación de reportes en **Looker Studio**.
 
+Utilicé **Claude Code** como parte del flujo de desarrollo, ajustando el harness y las instrucciones del proyecto para que el LLM trabajara con el contexto del repositorio, las restricciones técnicas y las convenciones de ingeniería. Conservé la responsabilidad técnica sobre la arquitectura y revisé y validé los cambios generados antes de integrarlos.
+
 ### Stack tecnológico
 
 - **Lenguajes:** Java, Go
@@ -71,6 +76,7 @@ La infraestructura estaba alojada en **Google Cloud Platform (GCP)** y definida 
 - **CI/CD:** Jenkins, GitHub Actions
 - **Calidad de código:** SonarQube
 - **Despliegue:** Kubernetes, Argo CD, Docker, Helm
+- **Desarrollo asistido por IA:** Claude Code, configuración de harnesses para desarrollo con LLM
 
 ---
 

@@ -37,6 +37,7 @@ I used **Claude Code** as part of the development workflow, tailoring the projec
 - **Cloud & IaC:** Google Cloud Platform (GCP), Terraform
 - **CI/CD:** Jenkins, GitHub Actions
 - **Code Quality:** SonarQube
+- **Logging:** Log4j / SLF4J
 - **Deployment:** Kubernetes, Argo CD, Docker, Helm
 - **AI-Assisted Development:** Claude Code, LLM development harness configuration
 
@@ -75,6 +76,7 @@ Utilicé **Claude Code** como parte del flujo de desarrollo, ajustando el harnes
 - **Cloud e IaC:** Google Cloud Platform (GCP), Terraform
 - **CI/CD:** Jenkins, GitHub Actions
 - **Calidad de código:** SonarQube
+- **Logging:** Log4j / SLF4J
 - **Despliegue:** Kubernetes, Argo CD, Docker, Helm
 - **Desarrollo asistido por IA:** Claude Code, configuración de harnesses para desarrollo con LLM
 

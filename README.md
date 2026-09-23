@@ -24,12 +24,13 @@ I'm **Gerlin Orlando Torres Saavedra**, Senior Java Software Engineer at Globant
 ### 🛠️ Technologies & Tools
 
 - **Languages:** Java 11–21, Kotlin, Go, Rust
-- **Frameworks:** Spring Boot 3, Quarkus, Vert.x, JEE
+- **Frameworks:** Spring Boot 3, Spring MVC, Spring Security, Spring Data JPA, Quarkus, Vert.x, JEE
 - **Messaging & Data:** Kafka, PostgreSQL, Cosmos DB/Gremlin, MongoDB, MySQL, Redis
 - **Workflow Orchestration:** Cadence
 - **Cloud & Deployment:** OpenShift, Kubernetes, Azure, Google Cloud Platform (GCP), Docker, Argo CD, Helm
 - **Build & Source Control:** Bazel, GitHub (monorepo)
 - **CI/CD & Quality:** GitHub Actions, Jenkins, SonarQube, JUnit, Karate, TDD
+- **Logging:** Log4j, SLF4J
 - **Observability:** Grafana, Prometheus, Zipkin, Kibana
 - **Data Analytics & BI:** BigQuery, Looker Studio
 - **IaC:** Terraform
@@ -57,12 +58,13 @@ Soy **Gerlin Orlando Torres Saavedra**, Senior Java Software Engineer en Globant
 ### 🛠️ Tecnologías y herramientas
 
 - **Lenguajes:** Java 11–21, Kotlin, Go, Rust
-- **Frameworks:** Spring Boot 3, Quarkus, Vert.x, JEE
+- **Frameworks:** Spring Boot 3, Spring MVC, Spring Security, Spring Data JPA, Quarkus, Vert.x, JEE
 - **Mensajería y datos:** Kafka, PostgreSQL, Cosmos DB/Gremlin, MongoDB, MySQL, Redis
 - **Orquestación de flujos:** Cadence
 - **Cloud y despliegue:** OpenShift, Kubernetes, Azure, Google Cloud Platform (GCP), Docker, Argo CD, Helm
 - **Build y control de versiones:** Bazel, GitHub (monorepo)
 - **CI/CD y calidad:** GitHub Actions, Jenkins, SonarQube, JUnit, Karate, TDD
+- **Logging:** Log4j, SLF4J
 - **Observabilidad:** Grafana, Prometheus, Zipkin, Kibana
 - **Analítica de datos y BI:** BigQuery, Looker Studio
 - **IaC:** Terraform

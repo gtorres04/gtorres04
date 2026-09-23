@@ -33,7 +33,7 @@ Developed the backend for MasterCard processing modernization, integrating ISO 8
 ### Tech Stack
 
 - **Languages:** Java 17
-- **Frameworks:** Spring Boot, Amiga Java
+- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Amiga Java
 - **Architecture:** Hexagonal, DDD, microservices
 - **Data:** PostgreSQL / JPA / Hibernate, MongoDB, Redis
 - **Messaging:** Kafka, Kafka PIPE
@@ -42,6 +42,7 @@ Developed the backend for MasterCard processing modernization, integrating ISO 8
 - **CI/CD:** GitHub Actions, Jenkins, SonarQube
 - **Testing:** JUnit, Karate, ICaRUS, mutation tests
 - **Observability:** Grafana, Tempo, Zipkin
+- **Logging:** Log4j / SLF4J
 
 ---
 
@@ -74,7 +75,7 @@ Desarrollé el backend para la modernización del procesamiento MasterCard, inte
 ### Stack tecnológico
 
 - **Lenguajes:** Java 17
-- **Frameworks:** Spring Boot, Amiga Java
+- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Amiga Java
 - **Arquitectura:** Hexagonal, DDD, microservicios
 - **Datos:** PostgreSQL / JPA / Hibernate, MongoDB, Redis
 - **Mensajería:** Kafka, Kafka PIPE
@@ -83,6 +84,7 @@ Desarrollé el backend para la modernización del procesamiento MasterCard, inte
 - **CI/CD:** GitHub Actions, Jenkins, SonarQube
 - **Testing:** JUnit, Karate, ICaRUS, mutation tests
 - **Observabilidad:** Grafana, Tempo, Zipkin
+- **Logging:** Log4j / SLF4J
 
 ---
 

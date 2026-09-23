@@ -1,0 +1,19 @@
+README.md
+  s_be80b1d836afdc::t_e2d1daefd520eb 27,33,61,67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "335aed7ccf68603951b41f9067cbd85fd93856a1",
+  "prompts": {},
+  "sessions": {
+    "s_be80b1d836afdc": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "688cf498-2a96-40e8-a8ee-df9180f9f480",
+        "model": "unknown"
+      },
+      "human_author": "Gerlin Orlando Torres Saavedra <gerlin.torres@gmail.com>"
+    }
+  }
+}

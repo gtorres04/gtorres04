@@ -20,11 +20,11 @@ I technically led backend teams in institutional and corporate projects, definin
 
 Consolidated a Java/Spring Boot backend with hexagonal architecture for a platform that unifies the management of cultural grants between Generalitat and provincial councils. The main challenge was integrating heterogeneous data and criteria, guaranteeing semantic coherence in cultural information, and maintaining a flexible system for different administrative agreements, ensuring traceability and integrity in the processes.
 
-The solution incorporated Java 17, Spring Boot, PostgreSQL with JPA/Hibernate, Kafka, domain events, and OpenAPI generation, reinforced with Jenkins pipelines, SonarQube, mutation tests, and automated deployments on OpenShift.
+The solution incorporated Java 17, Spring Boot, Spring Cloud, PostgreSQL with JPA/Hibernate, Kafka, domain events, and OpenAPI generation, applying SOLID principles and reinforced with Jenkins pipelines, SonarQube, mutation tests, and automated deployments on OpenShift.
 
 #### Inditex – AIDANA Project
 
-Acted as Technical Lead for the strategic parameterization microservice orchestrating data between AidAnalytics and multiple internal and external domains. The main challenges were unifying dispersed information, ensuring consistency in a distributed environment, and maintaining minimum latencies under high load. Implemented Amiga Java (Spring Boot), Redis, Kafka PIPE, advanced testing with JUnit, Karate and ICaRUS, CI/CD with GitHub Actions and deployments on Sentinel/Kubernetes with full observability via Grafana, Tempo, and Zipkin. The service consolidated as a critical and highly reliable piece of the data ecosystem.
+Acted as Technical Lead for the strategic parameterization microservice orchestrating data between AidAnalytics and multiple internal and external domains. The main challenges were unifying dispersed information, ensuring consistency in a distributed environment, and maintaining minimum latencies under high load. Implemented Amiga Java (Spring Boot and Spring Cloud), Redis, Kafka PIPE, and SOLID-oriented components, with advanced testing using JUnit, Karate and ICaRUS, CI/CD with GitHub Actions and deployments on Sentinel/Kubernetes with full observability via Grafana, Tempo, and Zipkin. The service consolidated as a critical and highly reliable piece of the data ecosystem.
 
 #### EVOLVE – El Corte Inglés
 
@@ -33,7 +33,7 @@ Developed the backend for MasterCard processing modernization, integrating ISO 8
 ### Tech Stack
 
 - **Languages:** Java 17
-- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Amiga Java
+- **Frameworks:** Spring Boot, Spring Cloud, Spring MVC, Spring Security, Spring Data JPA, Amiga Java
 - **Architecture:** Hexagonal, DDD, microservices
 - **Data:** PostgreSQL / JPA / Hibernate, MongoDB, Redis
 - **Messaging:** Kafka, Kafka PIPE
@@ -62,11 +62,11 @@ Lideré técnicamente equipos backend en proyectos institucionales y corporativo
 
 Consolidé un backend Java/Spring Boot con arquitectura hexagonal para una plataforma que unifica la gestión de ayudas culturales entre Generalitat y diputaciones. El reto principal fue integrar datos y criterios heterogéneos, garantizar coherencia semántica en la información cultural y mantener un sistema flexible para distintos convenios administrativos, asegurando trazabilidad e integridad en los procesos.
 
-La solución incorporó Java 17, Spring Boot, PostgreSQL con JPA/Hibernate, Kafka, eventos de dominio y generación OpenAPI, reforzada con pipelines en Jenkins, SonarQube, mutation tests y despliegues automatizados en OpenShift.
+La solución incorporó Java 17, Spring Boot, Spring Cloud, PostgreSQL con JPA/Hibernate, Kafka, eventos de dominio y generación OpenAPI, aplicando principios SOLID y reforzada con pipelines en Jenkins, SonarQube, mutation tests y despliegues automatizados en OpenShift.
 
 #### Inditex – Proyecto AIDANA
 
-Actué como Líder Técnico del microservicio estratégico de parametrización que orquesta datos entre AidAnalytics y múltiples dominios internos y externos. Los principales retos fueron unificar información dispersa, asegurar consistencia en un entorno distribuido y mantener latencias mínimas bajo alta carga. Implementé Amiga Java (Spring Boot), Redis, Kafka PIPE, testing avanzado con JUnit, Karate e ICaRUS, CI/CD con GitHub Actions y despliegues en Sentinel/Kubernetes con observabilidad completa mediante Grafana, Tempo y Zipkin. El servicio se consolidó como una pieza crítica y altamente fiable del ecosistema de datos.
+Actué como Líder Técnico del microservicio estratégico de parametrización que orquesta datos entre AidAnalytics y múltiples dominios internos y externos. Los principales retos fueron unificar información dispersa, asegurar consistencia en un entorno distribuido y mantener latencias mínimas bajo alta carga. Implementé Amiga Java (Spring Boot y Spring Cloud), Redis y Kafka PIPE, con componentes orientados a principios SOLID, testing avanzado con JUnit, Karate e ICaRUS, CI/CD con GitHub Actions y despliegues en Sentinel/Kubernetes con observabilidad completa mediante Grafana, Tempo y Zipkin. El servicio se consolidó como una pieza crítica y altamente fiable del ecosistema de datos.
 
 #### EVOLVE – El Corte Inglés
 
@@ -75,8 +75,8 @@ Desarrollé el backend para la modernización del procesamiento MasterCard, inte
 ### Stack tecnológico
 
 - **Lenguajes:** Java 17
-- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Amiga Java
-- **Arquitectura:** Hexagonal, DDD, microservicios
+- **Frameworks:** Spring Boot, Spring Cloud, Spring MVC, Spring Security, Spring Data JPA, Amiga Java
+- **Arquitectura:** Hexagonal, DDD, Clean Architecture, SOLID, microservicios
 - **Datos:** PostgreSQL / JPA / Hibernate, MongoDB, Redis
 - **Mensajería:** Kafka, Kafka PIPE
 - **Protocolos:** ISO 8583, Netty, OpenAPI

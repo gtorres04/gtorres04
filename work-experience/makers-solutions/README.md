@@ -22,17 +22,17 @@ Coordinated a team of four — QA, functional analyst, and two developers — de
 
 ### Solution
 
-The solution was implemented with Java 8 under a modular JEE architecture with CDI, developing REST and SOAP services for interoperability and a ReactJS frontend for internal user interaction. The quality cycle was ensured through unit testing, manual E2E validations, static analysis with SonarQube, and pipeline automation in Jenkins within a CI/CD process. Versioning was managed with Git, establishing systematic code reviews and controls to maintain technical consistency in each delivery.
+The solution was implemented with Java 8 under a modular JEE architecture with CDI, applying SOLID principles and developing REST and SOAP services for interoperability and a ReactJS frontend for internal user interaction. Gradle was used as part of the build process. The quality cycle was ensured through unit testing, manual E2E validations, static analysis with SonarQube, and pipeline automation in Jenkins within a CI/CD process. Versioning was managed with Git, establishing systematic code reviews and controls to maintain technical consistency in each delivery.
 
 The result was a reliable platform that allowed Protecciones to have an accurate daily valuation of its portfolio, reducing operational incidents and significantly improving the quality and availability of information used in investment decision-making.
 
 ### Tech Stack
 
 - **Languages:** Java 8
-- **Architecture:** JEE modular with CDI
+- **Architecture:** JEE modular with CDI, SOLID
 - **Services:** REST, SOAP
 - **Frontend:** ReactJS
-- **CI/CD:** Jenkins, SonarQube
+- **Build and CI/CD:** Gradle, Jenkins, SonarQube
 - **Version control:** Git
 - **Methodology:** Scrum
 
@@ -56,17 +56,17 @@ Coordiné un equipo de cuatro personas —QA, analista funcional y dos desarroll
 
 ### Solución
 
-La solución se implementó con Java 8 bajo arquitectura modular JEE con CDI, desarrollando servicios REST y SOAP para interoperabilidad y un frontend en ReactJS para la interacción de usuarios internos. El ciclo de calidad se aseguró mediante pruebas unitarias, validaciones E2E manuales, análisis estático con SonarQube y automatización de pipelines en Jenkins dentro de un proceso CI/CD. Se gestionó el versionado con Git, estableciendo revisiones de código sistemáticas y controles para mantener consistencia técnica en cada entrega.
+La solución se implementó con Java 8 bajo arquitectura modular JEE con CDI, aplicando principios SOLID y desarrollando servicios REST y SOAP para interoperabilidad y un frontend en ReactJS para la interacción de usuarios internos. Gradle se utilizó como parte del proceso de build. El ciclo de calidad se aseguró mediante pruebas unitarias, validaciones E2E manuales, análisis estático con SonarQube y automatización de pipelines en Jenkins dentro de un proceso CI/CD. Se gestionó el versionado con Git, estableciendo revisiones de código sistemáticas y controles para mantener consistencia técnica en cada entrega.
 
 El resultado fue una plataforma confiable que permitió a Protecciones disponer de una valorización diaria precisa de su portafolio, redujo incidencias operativas y mejoró significativamente la calidad y disponibilidad de la información utilizada en la toma de decisiones de inversión.
 
 ### Stack tecnológico
 
 - **Lenguajes:** Java 8
-- **Arquitectura:** JEE modular con CDI
+- **Arquitectura:** JEE modular con CDI, SOLID
 - **Servicios:** REST, SOAP
 - **Frontend:** ReactJS
-- **CI/CD:** Jenkins, SonarQube
+- **Build y CI/CD:** Gradle, Jenkins, SonarQube
 - **Control de versiones:** Git
 - **Metodología:** Scrum
 

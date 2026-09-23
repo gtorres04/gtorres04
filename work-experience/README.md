@@ -54,6 +54,12 @@ For the full work experience and education details, browse the directories below
 | [ingemedic & Metrologia](ingemedic-metrologia/README.md) | Java Developer Analyst | 2013 - 2015 |
 | [Fundación Universitaria Tecnológico Comfenalco](comfenalco/README.md) | Faculty / Junior Developer | 2008 - 2015 |
 
+### Independent Projects / Proyectos Independientes
+
+| Project | Focus | Period |
+|---|---|---|
+| [Fund Custard](independent-projects/fund-custard/README.md) | Collective savings fund platform | Not specified |
+
 ---
 
 ← Back to [main profile](../README.md)

@@ -15,7 +15,7 @@
 
 Worked as an independent contractor (freelance) on the **mas-collections** project for **MasOrange**, a debt collection and billing platform in the telco sector, built on a polyglot microservices architecture in **Java (Vert.x)** and **Go**.
 
-I contributed to the design and development of reactive, event-driven microservices with Vert.x, integrating transactional persistence in **PostgreSQL** and caching/fast-access data in **Redis**. Asynchronous communication between services was handled through **Kafka** message queues, while long-running and complex business processes were orchestrated with **Cadence** workflows, ensuring reliability and fault tolerance in distributed transactions.
+I contributed to the design and development of reactive, event-driven microservices with Vert.x and Spring Cloud, applying SOLID principles and integrating transactional persistence in **PostgreSQL** and caching/fast-access data in **Redis**. Asynchronous communication between services was handled through **Kafka** message queues, while long-running and complex business processes were orchestrated with **Cadence** workflows, ensuring reliability and fault tolerance in distributed transactions.
 
 The codebase was hosted in a **single GitHub monorepo**, built and managed with **Bazel**, using IntelliJ IDEA as the primary IDE (with VS Code used in some cases). I built and maintained **Jenkins pipelines** alongside numerous **GitHub Actions** workflows for CI/CD, enforcing code coverage and quality gates with **SonarQube**.
 
@@ -26,7 +26,7 @@ I used **Claude Code** as part of the development workflow, tailoring the projec
 ### Tech Stack
 
 - **Languages:** Java, Go
-- **Frameworks:** Vert.X
+- **Frameworks:** Vert.X, Spring Cloud
 - **Data:** PostgreSQL, Redis
 - **Messaging:** Kafka
 - **Workflow Orchestration:** Cadence
@@ -54,7 +54,7 @@ I used **Claude Code** as part of the development workflow, tailoring the projec
 
 Trabajé como contratista independiente (freelance) en el proyecto **mas-collections** para **MasOrange**, una plataforma de gestión de cobros y facturación en el sector telco, construida sobre una arquitectura de microservicios políglota en **Java (Vert.X)** y **Go**.
 
-Contribuí al diseño y desarrollo de microservicios reactivos y event-driven con Vert.X, integrando persistencia transaccional en **Postgres** y datos de acceso rápido/cache en **Redis**. La comunicación asíncrona entre servicios se gestionaba mediante colas de mensajes con **Kafka**, mientras que los procesos de negocio de larga duración y complejos se orquestaban con flujos de trabajo de **Cadence**, garantizando fiabilidad y tolerancia a fallos en transacciones distribuidas.
+Contribuí al diseño y desarrollo de microservicios reactivos y event-driven con Vert.X y Spring Cloud, aplicando principios SOLID e integrando persistencia transaccional en **Postgres** y datos de acceso rápido/cache en **Redis**. La comunicación asíncrona entre servicios se gestionaba mediante colas de mensajes con **Kafka**, mientras que los procesos de negocio de larga duración y complejos se orquestaban con flujos de trabajo de **Cadence**, garantizando fiabilidad y tolerancia a fallos en transacciones distribuidas.
 
 El código se almacenaba en un **repositorio único de GitHub (monorepo)**, compilado y gestionado con **Bazel**, utilizando IntelliJ IDEA como IDE principal (y VSCode en algunos casos). Construí y mantuve **pipelines de Jenkins** junto con numerosas **acciones de GitHub Actions** para CI/CD, verificando la cobertura y calidad del código con **SonarQube**.
 
@@ -65,7 +65,7 @@ Utilicé **Claude Code** como parte del flujo de desarrollo, ajustando el harnes
 ### Stack tecnológico
 
 - **Lenguajes:** Java, Go
-- **Frameworks:** Vert.X
+- **Frameworks:** Vert.X, Spring Cloud
 - **Datos:** Postgres, Redis
 - **Mensajería:** Kafka
 - **Orquestación de flujos:** Cadence

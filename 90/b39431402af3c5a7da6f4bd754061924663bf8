@@ -1,0 +1,19 @@
+cv/variants/cv-senior-java-developer.md
+  s_855b0733afdd0b::t_afe1e6d88da467 1-110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "90b39431402af3c5a7da6f4bd754061924663bf8",
+  "prompts": {},
+  "sessions": {
+    "s_855b0733afdd0b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f539439a4ffeYDKHv1Dxm5jaxs",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Gerlin Orlando Torres Saavedra <gerlin.torres@gmail.com>"
+    }
+  }
+}

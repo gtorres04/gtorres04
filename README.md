@@ -70,3 +70,4 @@ Soy **Gerlin Orlando Torres Saavedra**, Senior Java Software Engineer en Globant
 - **IaC:** Terraform
 - **Frontend:** React, Angular, microfrontends
 
+<!-- PR de prueba de robótina: verificando el flujo de contribución directa -->

@@ -9,7 +9,7 @@
 ## 1. Titular (máx. 220 caracteres)
 
 ```
-Senior Java Software Engineer | Backend, microservicios y arquitecturas distribuidas | Java 21 · Spring Boot · Kafka · Kubernetes | 100% remoto
+Senior Java Software Engineer | Microservicios y arquitecturas distribuidas | Java 21 · Spring Boot · Kafka · Kubernetes | Desarrollo guiado por IA (Copilot, OpenCode) | 100% remoto
 ```
 
 ---
@@ -22,6 +22,8 @@ Soy Senior Java Software Engineer especializado en backend y arquitecturas distr
 He liderado y desarrollado soluciones basadas en microservicios, arquitectura hexagonal y DDD en dominios complejos: jerarquía global de producto y cálculo dinámico de KPIs (Inditex), procesamiento MasterCard con ISO-8583 (El Corte Inglés / EVOLVE), integración RedSys PSP/adquirente (Bankinter), fondos de pensiones (Protección) y portales institucionales de alto tráfico.
 
 Mi fortaleza es diseñar servicios robustos, escalables y event-driven con Java 11–21 y Spring Boot 3, integrando Kafka, PostgreSQL, CosmosDB/Gremlin, MongoDB/MySQL, y desplegando en Kubernetes, OpenShift y Azure, con CI/CD (GitHub Actions, Jenkins), TDD, pruebas E2E con Karate y observabilidad (Grafana, Prometheus, Zipkin).
+
+Desarrollo guiado por IA: trabajo con asistentes como GitHub Copilot y OpenCode, adaptando sus harnesses a los requerimientos arquitectónicos, técnicos y de negocio de cada proyecto, y conservando la responsabilidad técnica sobre el diseño, la revisión, las pruebas y la integración final.
 
 Como líder técnico he guiado equipos multidisciplinares: definición de arquitectura, revisión de diseño, estándares de calidad, mentoría a desarrolladores y entregables alineados con negocio, normativa y seguridad.
 
@@ -37,7 +39,7 @@ Abierto a oportunidades 100% remotas. Hablemos.
 ### Globant — Senior Java Software Engineer · ago 2023 - actualidad
 
 ```
-Desarrollo y lidero soluciones backend con Java 21, Spring Boot 3 y Spring Cloud (arquitectura hexagonal, DDD, Clean Architecture) para la plataforma corporativa de Inditex: modelado y explotación de la jerarquía global de producto para el cálculo dinámico de KPIs, con Cosmos DB/Gremlin, PostgreSQL, Redis y Kafka sobre Kubernetes. CI/CD con GitHub Actions y Argo; calidad con JUnit, Karate y pruebas de carga y caos; observabilidad con Grafana, Prometheus, Zipkin y Tempo. Trabajo con GitHub Copilot y OpenCode integrados en el flujo corporativo de desarrollo (SDD), manteniendo la responsabilidad técnica sobre diseño, revisión y pruebas.
+Desarrollo y lidero soluciones backend con Java 21, Spring Boot 3 y Spring Cloud (arquitectura hexagonal, DDD, Clean Architecture) para la plataforma corporativa de Inditex: modelado y explotación de la jerarquía global de producto para el cálculo dinámico de KPIs, con Cosmos DB/Gremlin, PostgreSQL, Redis y Kafka sobre Kubernetes. CI/CD con GitHub Actions y Argo; calidad con JUnit, Karate y pruebas de carga y caos; observabilidad con Grafana, Prometheus, Zipkin y Tempo. Desarrollo guiado por IA: trabajo con GitHub Copilot y OpenCode integrados en el flujo corporativo de desarrollo (SDD), adaptando sus harnesses a los requerimientos arquitectónicos, técnicos y de negocio del proyecto, y conservando la responsabilidad técnica sobre el diseño, la revisión, las pruebas y la integración final.
 ```
 
 ### Paradigma Digital — Senior Software Development Engineer · abr 2021 - mar 2024

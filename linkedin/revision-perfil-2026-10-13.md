@@ -59,3 +59,11 @@
 
 ## 3. Siguiente paso (fase 2, tras tu revisión de esta PR)
 Propuesta de optimización del perfil orientada a remoto (titular, extracto, descripciones de experiencia) basada 100% en el contenido del repo. Nada se publica en LinkedIn sin tu OK: tú aplicas los cambios.
+
+---
+
+## 4. Decisiones de Gerlin (2026-10-13)
+
+- **MasOrange:** se mantiene **fuera de LinkedIn deliberadamente** (decisión personal de Gerlin, 2026-10-13). No debe aparecer en LinkedIn bajo ningún concepto ni en ninguna propuesta de optimización del perfil. Queda únicamente en el repo.
+- **Certificaciones:** las 14 se añaden al repo en `certifications/README.md` (hecho en esta PR).
+- **Ubicación:** se mantiene **Cartagena, Colombia** en LinkedIn y repo de forma deliberada (estrategia: optar a contratos indefinidos en Colombia trabajando en remoto desde España).

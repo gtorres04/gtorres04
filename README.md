@@ -20,6 +20,7 @@ I'm **Gerlin Orlando Torres Saavedra**, Senior Java Software Engineer at Globant
 
 - [Work Experience & Resume](work-experience/README.md)
 - [Education](education/README.md)
+- [Certifications](certifications/README.md)
 
 ### 🛠️ Technologies & Tools
 
@@ -54,6 +55,7 @@ Soy **Gerlin Orlando Torres Saavedra**, Senior Java Software Engineer en Globant
 
 - [Experiencia Laboral & Resumen](work-experience/README.md)
 - [Educación](education/README.md)
+- [Certificaciones](certifications/README.md)
 
 ### 🛠️ Tecnologías y herramientas
 

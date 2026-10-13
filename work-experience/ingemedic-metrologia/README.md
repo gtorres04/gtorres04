@@ -46,4 +46,12 @@
 
 ---
 
+### LinkedIn
+
+```
+Levantamiento de requisitos y desarrollo backend en componentes modulares Java 7 (JEE7) con Spring e Hibernate, y frontend con JSP, CSS y JQuery.
+```
+
+---
+
 ← [Back to Work Experience / Volver a Work Experience](../README.md)

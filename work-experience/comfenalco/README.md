@@ -68,4 +68,12 @@ Desarrollé las Cátedras de Desarrollo de Software StandAlone Orientada a Objet
 
 ---
 
+### LinkedIn
+
+```
+Docente de dedicación en los programas tecnológicos de producción industrial y sistemas de información, y en los profesionales de Ingeniería de Sistemas e Ingeniería Industrial. Coordinador de Nuevas Tecnologías de la Información y la Comunicación (NTICs).
+```
+
+---
+
 ← [Back to Work Experience / Volver a Work Experience](../README.md)

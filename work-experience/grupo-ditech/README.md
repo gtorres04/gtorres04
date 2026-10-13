@@ -84,6 +84,14 @@ El resultado fue un ecosistema de integraciones más robusto y estandarizado, un
 
 ---
 
+### LinkedIn
+
+```
+Arquitecto Java y líder técnico para Evo Banco y Bankinter. Evo Banco: gobierno del API Gateway corporativo (estándares RESTful, normalización de contratos) y microfrontend de simulación hipotecaria (React). Bankinter: plataforma de gestión y versionado de configuración para microservicios con Consul, e integración RedSys para la operativa PSP/adquirente en el sandbox. Stack: Java 8, Spring Boot, React, Angular 8, Azure (App Services, API Management), Jenkins, Docker. Scrum con code reviews y pair programming.
+```
+
+---
+
 ← [Back to Work Experience / Volver a Work Experience](../README.md)
 **Período:** octubre de 2019 - abril de 2021 (1 año 7 meses)
 **Ubicación:** Madrid, Madrid, España

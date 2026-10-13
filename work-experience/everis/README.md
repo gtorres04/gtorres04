@@ -74,6 +74,14 @@ El resultado fue una plataforma estable, segura y confiable que consolidó trám
 
 ---
 
+### LinkedIn
+
+```
+Participé en el desarrollo y evolución del portal VUCE del Ministerio de Comercio, Industria y Turismo de Colombia: plataforma nacional que centraliza trámites de importación, exportación y certificaciones de comercio exterior. Mantuve y evolucioné un sistema crítico en Java 7 / JEE con integraciones SOAP heterogéneas (DIAN, INVIMA, ICA, MinDefensa, MinAmbiente), además de análisis funcional y técnico, estimación de esfuerzos y supervisión de entregables bajo estándares gubernamentales.
+```
+
+---
+
 ← [Back to Work Experience / Volver a Work Experience](../README.md)
 **Período:** noviembre de 2016 - septiembre de 2017 (11 meses)
 **Ubicación:** Bogotá D.C., Colombia

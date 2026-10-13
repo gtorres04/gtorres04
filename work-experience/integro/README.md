@@ -74,6 +74,14 @@ El resultado fue un módulo de pagos y micro-ahorros estable, seguro y totalment
 
 ---
 
+### LinkedIn
+
+```
+Desarrollé una billetera digital para el mercado estadounidense con pagos y micro-ahorros automáticos mediante redondeo inteligente de transacciones: módulo de pago con integridad transaccional y exactitud financiera entre débitos y abonos. Stack: microservicios Java 8 con Spring Boot, MySQL, Angular, React Native, Docker, CI/CD, TDD y Scrum.
+```
+
+---
+
 ← [Back to Work Experience / Volver a Work Experience](../README.md)
 **Período:** septiembre de 2017 - noviembre de 2017 (3 meses)
 **Ubicación:** Medellín, Colombia

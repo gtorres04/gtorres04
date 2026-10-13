@@ -88,4 +88,12 @@ Desarrollé el backend para la modernización del procesamiento MasterCard, inte
 
 ---
 
+### LinkedIn
+
+```
+Líder técnico de equipos backend en plataformas críticas. Programa.cat: backend Java 17 / Spring Boot con arquitectura hexagonal que unifica la gestión de ayudas culturales entre Generalitat y diputaciones (PostgreSQL, Kafka, OpenAPI, Jenkins, SonarQube, OpenShift). Inditex (AIDANA): microservicio estratégico de parametrización entre AidAnalytics y dominios internos y externos (Amiga Java, Redis, Kafka PIPE, Kubernetes, Grafana/Tempo/Zipkin). El Corte Inglés (EVOLVE): modernización del procesamiento MasterCard, integrando mensajes ISO 8583 vía Netty y MongoDB en un entorno de misión crítica.
+```
+
+---
+
 ← [Back to Work Experience / Volver a Work Experience](../README.md)

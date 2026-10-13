@@ -62,4 +62,45 @@ For the full work experience and education details, browse the directories below
 
 ---
 
+---
+
+## LinkedIn
+
+> Textos optimizados para el perfil de LinkedIn (posicionamiento remoto), basados en este repo.
+> La versión de LinkedIn omite MasOrange por decisión personal (2026-10-13).
+> Nada se publica automáticamente: se copian a LinkedIn manualmente tras mergear.
+
+### Titular
+
+```
+Senior Java Software Engineer | Microservicios y arquitecturas distribuidas | Java 21 · Spring Boot · Kafka · Kubernetes | Desarrollo guiado por IA (Copilot, OpenCode) | 100% remoto
+```
+
+### Acerca de
+
+```
+Soy Senior Java Software Engineer especializado en backend y arquitecturas distribuidas, con más de 10 años construyendo plataformas críticas para banca, pagos electrónicos, inversión y grandes corporaciones. Trabajo 100% en remoto y estoy abierto a nuevas oportunidades remotas.
+
+He liderado y desarrollado soluciones basadas en microservicios, arquitectura hexagonal y DDD en dominios complejos: jerarquía global de producto y cálculo dinámico de KPIs (Inditex), procesamiento MasterCard con ISO-8583 (El Corte Inglés / EVOLVE), integración RedSys PSP/adquirente (Bankinter), fondos de pensiones (Protección) y portales institucionales de alto tráfico.
+
+Mi fortaleza es diseñar servicios robustos, escalables y event-driven con Java 11–21 y Spring Boot 3, integrando Kafka, PostgreSQL, CosmosDB/Gremlin, MongoDB/MySQL, y desplegando en Kubernetes, OpenShift y Azure, con CI/CD (GitHub Actions, Jenkins), TDD, pruebas E2E con Karate y observabilidad (Grafana, Prometheus, Zipkin).
+
+Desarrollo guiado por IA: trabajo con asistentes como GitHub Copilot y OpenCode, adaptando sus harnesses a los requerimientos arquitectónicos, técnicos y de negocio de cada proyecto, y conservando la responsabilidad técnica sobre el diseño, la revisión, las pruebas y la integración final.
+
+Como líder técnico he guiado equipos multidisciplinares: definición de arquitectura, revisión de diseño, estándares de calidad, mentoría a desarrolladores y entregables alineados con negocio, normativa y seguridad.
+
+Me apasionan los sistemas de alto rendimiento y el aprendizaje continuo: actualmente profundizo en Kotlin, Rust, Quarkus, bases de datos columnares y orquestación de flujos con Cadence.
+
+Abierto a oportunidades 100% remotas. Hablemos.
+```
+
+### Notas de aplicación
+
+- **Ubicación:** mantener Cartagena de Indias, Bolívar, Colombia.
+- **Banner "En busca de empleo":** ya activo (Arquitecto de software, Desarrollador Java, Técnico Líder).
+- **Aptitudes destacadas sugeridas:** Java, Spring Boot, Microservicios, Kafka, Arquitectura de software, Kubernetes, PostgreSQL, Liderazgo técnico.
+- **Experiencia:** usar la descripción "LinkedIn" del README de cada empresa. No crear el puesto de MasOrange.
+
+---
+
 ← Back to [main profile](../README.md)

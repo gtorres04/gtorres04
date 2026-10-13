@@ -70,6 +70,14 @@ El resultado fue un punto único, estandarizado y confiable para la consulta doc
 
 ---
 
+### LinkedIn
+
+```
+Diseñé y desarrollé para Bancolombia una API REST de consulta documental que centraliza los documentos de clientes integrados con Oracle WebCenter Content: mapeo del API propietario del gestor documental a contratos REST estandarizados, con validación de metadatos, trazabilidad completa y cumplimiento de las políticas de seguridad y auditoría del banco. Stack: Java 6 / JEE, REST/SOAP sobre WebSphere Application Server.
+```
+
+---
+
 ← [Back to Work Experience / Volver a Work Experience](../README.md)
 **Período:** noviembre de 2017 - octubre de 2018 (1 año)
 **Ubicación:** Antioquia, Colombia

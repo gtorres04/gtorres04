@@ -66,4 +66,12 @@ El resultado fue un conjunto de portlets estables, bien integrados y alineados c
 
 ---
 
+### LinkedIn
+
+```
+Desarrollé el proyecto +Protección para el fondo de pensiones Protección sobre IBM WebSphere Portal 8: portlets Java y AngularJS para modernizar la experiencia transaccional, con backend en Java 7 (Spring, Hibernate, JUnit), servicios REST en JEE7 y frontend en AngularJS/JSP. Prácticas: Scrum, code review, Jenkins y SonarQube.
+```
+
+---
+
 ← [Back to Work Experience / Volver a Work Experience](../README.md)

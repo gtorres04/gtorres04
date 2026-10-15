@@ -73,7 +73,7 @@ For the full work experience and education details, browse the directories below
 ### Titular
 
 ```
-Senior Java Software Engineer | Microservicios y arquitecturas distribuidas | Java 21 · Spring Boot · Kafka · Kubernetes | Desarrollo guiado por IA (Copilot, OpenCode) | 100% remoto
+Senior Java Software Engineer | Microservicios y arquitecturas distribuidas | Java 25 · Spring Boot · Kafka · Kubernetes | Desarrollo guiado por IA (Copilot, OpenCode) | 100% remoto
 ```
 
 ### Acerca de

@@ -70,4 +70,12 @@ El resultado es una plataforma robusta, escalable y eficiente que permite calcul
 
 ---
 
+### LinkedIn
+
+```
+Desarrollo y lidero soluciones backend con Java 21, Spring Boot 3 y Spring Cloud (arquitectura hexagonal, DDD, Clean Architecture) para la plataforma corporativa de Inditex: modelado y explotación de la jerarquía global de producto para el cálculo dinámico de KPIs, con Cosmos DB/Gremlin, PostgreSQL, Redis y Kafka sobre Kubernetes. CI/CD con GitHub Actions y Argo; calidad con JUnit, Karate y pruebas de carga y caos; observabilidad con Grafana, Prometheus, Zipkin y Tempo. Desarrollo guiado por IA: trabajo con GitHub Copilot y OpenCode integrados en el flujo corporativo de desarrollo (SDD), adaptando sus harnesses a los requerimientos arquitectónicos, técnicos y de negocio del proyecto, y conservando la responsabilidad técnica sobre el diseño, la revisión, las pruebas y la integración final.
+```
+
+---
+
 ← [Back to Work Experience / Volver a Work Experience](../README.md)

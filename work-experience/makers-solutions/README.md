@@ -72,6 +72,14 @@ El resultado fue una plataforma confiable que permitió a Protecciones disponer 
 
 ---
 
+### LinkedIn
+
+```
+Lideré técnicamente el proyecto SPIRIT para el fondo de pensiones Protección: plataforma de registro, valorización y consolidación diaria del portafolio de inversión, garantizando coherencia entre la operativa del día y el valor de cierre. Coordiné un equipo de 4 personas (QA, analista funcional y dos desarrolladores), definiendo arquitectura, prioridades y estándares de calidad bajo Scrum. Stack: Java 8, JEE modular con CDI, servicios REST/SOAP, ReactJS, Jenkins, SonarQube.
+```
+
+---
+
 ← [Back to Work Experience / Volver a Work Experience](../README.md)
 **Período:** noviembre de 2018 - octubre de 2019 (1 año)
 **Ubicación:** Medellín, Antioquia, Colombia

@@ -12,7 +12,7 @@
 
 ---
 
-I develop and lead backend solutions with Java 21, Spring Boot 3, and Spring Cloud under hexagonal architecture, applying DDD, Clean Architecture, and SOLID principles for a modular and scalable domain. I integrate models in Cosmos DB and Gremlin graphs along with PostgreSQL, design Kafka pub/sub messaging flows, and manage continuous deployments via OpenShift and GitHub Actions. The Inditex delivery pipeline also uses Artifactory for artifact management.
+I develop and lead backend solutions with Java 25, Spring Boot 3, and Spring Cloud under hexagonal architecture, applying DDD, Clean Architecture, and SOLID principles for a modular and scalable domain. I integrate models in Cosmos DB and Gremlin graphs along with PostgreSQL, design Kafka pub/sub messaging flows, and manage continuous deployments via OpenShift and GitHub Actions. The Inditex delivery pipeline also uses Artifactory for artifact management.
 
 Within the Inditex corporate project, I use **GitHub Copilot** and **OpenCode** as part of the development workflow, with Copilot integrated into the corporate **SDD** process. I configure and refine their harnesses and project instructions so LLM assistance follows the team's process and my engineering conventions, while I retain responsibility for design, review, testing, and final integration.
 
@@ -24,7 +24,7 @@ The result is a robust, scalable, and efficient platform that enables near real-
 
 ### Tech Stack
 
-- **Languages:** Java 21
+- **Languages:** Java 25
 - **Frameworks:** Spring Boot 3, Spring Cloud, Amiga Java
 - **Architecture:** Hexagonal, DDD, Clean Architecture, SOLID
 - **Data:** Cosmos DB / Gremlin, PostgreSQL, Redis
@@ -45,7 +45,7 @@ The result is a robust, scalable, and efficient platform that enables near real-
 
 ---
 
-Desarrollo y lidero soluciones backend con Java 21, Spring Boot 3 y Spring Cloud bajo arquitectura hexagonal, aplicando DDD, Clean Architecture y principios SOLID para un dominio modular y escalable. Integro modelos en Cosmos DB y grafos Gremlin junto con PostgreSQL, diseño flujos de mensajería con Kafka en pub/sub y gestiono despliegues continuos mediante OpenShift y GitHub Actions. El pipeline de entrega de Inditex también utiliza Artifactory para la gestión de artefactos.
+Desarrollo y lidero soluciones backend con Java 25, Spring Boot 3 y Spring Cloud bajo arquitectura hexagonal, aplicando DDD, Clean Architecture y principios SOLID para un dominio modular y escalable. Integro modelos en Cosmos DB y grafos Gremlin junto con PostgreSQL, diseño flujos de mensajería con Kafka en pub/sub y gestiono despliegues continuos mediante OpenShift y GitHub Actions. El pipeline de entrega de Inditex también utiliza Artifactory para la gestión de artefactos.
 
 En el proyecto corporativo de Inditex utilizo **GitHub Copilot** y **OpenCode** como parte del flujo de desarrollo, con Copilot integrado en el proceso corporativo de **SDD**. Configuro y ajusto sus harnesses y las instrucciones del proyecto para que la asistencia del LLM siga el proceso del equipo y mis convenciones de ingeniería, conservando la responsabilidad sobre el diseño, la revisión, las pruebas y la integración final.
 
@@ -57,7 +57,7 @@ El resultado es una plataforma robusta, escalable y eficiente que permite calcul
 
 ## Stack tecnológico
 
-- **Lenguajes:** Java 21
+- **Lenguajes:** Java 25
 - **Frameworks:** Spring Boot 3, Spring Cloud, Amiga Java
 - **Arquitectura:** Hexagonal, DDD, Clean Architecture, SOLID
 - **Datos:** Cosmos DB / Gremlin, PostgreSQL, Redis
@@ -73,7 +73,7 @@ El resultado es una plataforma robusta, escalable y eficiente que permite calcul
 ### LinkedIn
 
 ```
-Desarrollo y lidero soluciones backend con Java 21, Spring Boot 3 y Spring Cloud (arquitectura hexagonal, DDD, Clean Architecture) para la plataforma corporativa de Inditex: modelado y explotación de la jerarquía global de producto para el cálculo dinámico de KPIs, con Cosmos DB/Gremlin, PostgreSQL, Redis y Kafka sobre Kubernetes. CI/CD con GitHub Actions y Argo; calidad con JUnit, Karate y pruebas de carga y caos; observabilidad con Grafana, Prometheus, Zipkin y Tempo. Desarrollo guiado por IA: trabajo con GitHub Copilot y OpenCode integrados en el flujo corporativo de desarrollo (SDD), adaptando sus harnesses a los requerimientos arquitectónicos, técnicos y de negocio del proyecto, y conservando la responsabilidad técnica sobre el diseño, la revisión, las pruebas y la integración final.
+Desarrollo y lidero soluciones backend con Java 25, Spring Boot 3 y Spring Cloud (arquitectura hexagonal, DDD, Clean Architecture) para la plataforma corporativa de Inditex: modelado y explotación de la jerarquía global de producto para el cálculo dinámico de KPIs, con Cosmos DB/Gremlin, PostgreSQL, Redis y Kafka sobre Kubernetes. CI/CD con GitHub Actions y Argo; calidad con JUnit, Karate y pruebas de carga y caos; observabilidad con Grafana, Prometheus, Zipkin y Tempo. Desarrollo guiado por IA: trabajo con GitHub Copilot y OpenCode integrados en el flujo corporativo de desarrollo (SDD), adaptando sus harnesses a los requerimientos arquitectónicos, técnicos y de negocio del proyecto, y conservando la responsabilidad técnica sobre el diseño, la revisión, las pruebas y la integración final.
 ```
 
 ---

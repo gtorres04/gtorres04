@@ -90,8 +90,6 @@ Desarrollo guiado por IA: trabajo con asistentes como GitHub Copilot y OpenCode,
 Como líder técnico he guiado equipos multidisciplinares: definición de arquitectura, revisión de diseño, estándares de calidad, mentoría a desarrolladores y entregables alineados con negocio, normativa y seguridad.
 
 Me apasionan los sistemas de alto rendimiento y el aprendizaje continuo: actualmente profundizo en Kotlin, Rust, Quarkus, bases de datos columnares y orquestación de flujos con Cadence.
-
-Abierto a oportunidades 100% remotas. Hablemos.
 ```
 
 ### Notas de aplicación

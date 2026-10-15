@@ -70,8 +70,21 @@ Desarrollé las Cátedras de Desarrollo de Software StandAlone Orientada a Objet
 
 ### LinkedIn
 
+**Docente de Dedicación**
 ```
 Docente de dedicación en los programas tecnológicos de producción industrial y sistemas de información, y en los profesionales de Ingeniería de Sistemas e Ingeniería Industrial. Coordinador de Nuevas Tecnologías de la Información y la Comunicación (NTICs).
+```
+
+**Docente Catedrático**
+```
+Desarrollé las Cátedras de Desarrollo de Software StandAlone Orientada a Objeto.
+```
+
+**Desarrollador Junior**
+```
+1. Análisis, diseño y desarrollo de aplicaciones Web con PHP, Flash (AS3) y MySQL.
+2. Diseño y Desarrollo de objetos Multimedia.
+3. Administración de LMS, CMS, DMS, PMS, etc.
 ```
 
 ---

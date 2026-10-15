@@ -83,7 +83,7 @@ Soy Senior Java Software Engineer 100% remoto, especializado en backend y arquit
 
 He liderado y desarrollado soluciones basadas en microservicios, arquitectura hexagonal y DDD en dominios complejos: jerarquía global de producto y cálculo dinámico de KPIs (Inditex), procesamiento MasterCard con ISO-8583 (El Corte Inglés / EVOLVE), integración RedSys PSP/adquirente (Bankinter), fondos de pensiones (Protección) y portales institucionales de alto tráfico.
 
-Mi fortaleza es diseñar servicios robustos, escalables y event-driven con Java 11–25 y Spring Boot 3, integrando Kafka, PostgreSQL, CosmosDB/Gremlin, MongoDB/MySQL, y desplegando en Kubernetes, OpenShift y Azure, con CI/CD (GitHub Actions, Jenkins), TDD, pruebas E2E con Karate y observabilidad (Grafana, Prometheus, Zipkin).
+Mi fortaleza es diseñar servicios robustos, escalables y event-driven con Java 11–25 y Spring Boot 3, integrando Kafka, PostgreSQL, CosmosDB/Gremlin, MongoDB/MySQL, y desplegando en Kubernetes, OpenShift, Azure y GCP, con CI/CD (GitHub Actions, Jenkins), TDD, pruebas E2E con Karate, observabilidad (Grafana, Prometheus, Zipkin), caché con Redis e infraestructura como código con Terraform. También trabajo con Go, Vert.x y orquestación de flujos con Cadence.
 
 Desarrollo guiado por IA: trabajo con asistentes como GitHub Copilot y OpenCode, adaptando sus harnesses a los requerimientos arquitectónicos, técnicos y de negocio de cada proyecto, y conservando la responsabilidad técnica sobre el diseño, la revisión, las pruebas y la integración final.
 

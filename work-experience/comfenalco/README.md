@@ -18,7 +18,7 @@ Full-time faculty in the industrial production and information systems technolog
 ### Adjunct Faculty
 
 **Role:** Adjunct Faculty
-**Period:** 2010 (less than one year)
+**Period:** February 2010 - December 2010
 
 Taught courses on Standalone Object-Oriented Software Development.
 
@@ -50,7 +50,7 @@ Docente de Dedicación en los programas tecnológicos producción industrial y s
 ### Docente Catedrático
 
 **Cargo:** Docente Catedrático
-**Período:** 2010 (menos de un año)
+**Período:** febrero de 2010 - diciembre de 2010
 
 Desarrollé las Cátedras de Desarrollo de Software StandAlone Orientada a Objeto.
 

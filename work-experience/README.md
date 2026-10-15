@@ -79,7 +79,7 @@ Senior Java Software Engineer | Microservicios y arquitecturas distribuidas | Ja
 ### Acerca de
 
 ```
-Soy Senior Java Software Engineer especializado en backend y arquitecturas distribuidas, con más de 10 años construyendo plataformas críticas para banca, pagos electrónicos, inversión y grandes corporaciones. Trabajo 100% en remoto y estoy abierto a nuevas oportunidades remotas.
+Soy Senior Java Software Engineer 100% remoto, especializado en backend y arquitecturas distribuidas, con más de 10 años construyendo plataformas críticas para banca, pagos electrónicos, inversión y grandes corporaciones. Estoy abierto a nuevas oportunidades remotas.
 
 He liderado y desarrollado soluciones basadas en microservicios, arquitectura hexagonal y DDD en dominios complejos: jerarquía global de producto y cálculo dinámico de KPIs (Inditex), procesamiento MasterCard con ISO-8583 (El Corte Inglés / EVOLVE), integración RedSys PSP/adquirente (Bankinter), fondos de pensiones (Protección) y portales institucionales de alto tráfico.
 

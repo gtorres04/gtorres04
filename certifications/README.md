@@ -26,6 +26,7 @@
 | Curso de elementos avanzados en tu API REST con Spring Boot | OpenWebinars | Jan 2021 | dkKLq |
 | Seguridad en tu API REST con Spring Boot | OpenWebinars | Jan 2021 | JzZbb |
 | Docker para Desarrolladores | OpenWebinars | — | — |
+| AI Fluency: Framework & Foundations | Anthropic | Oct 2026 | yxjse7j6waei |
 
 ---
 
@@ -49,6 +50,7 @@
 | Curso de elementos avanzados en tu API REST con Spring Boot | OpenWebinars | ene 2021 | dkKLq |
 | Seguridad en tu API REST con Spring Boot | OpenWebinars | ene 2021 | JzZbb |
 | Docker para Desarrolladores | OpenWebinars | — | — |
+| AI Fluency: Framework & Foundations | Anthropic | oct 2026 | yxjse7j6waei |
 
 ---
 
